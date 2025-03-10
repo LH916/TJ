@@ -1,0 +1,5446 @@
+{
+  "type": "FeatureCollection",
+  "name": "娱乐休闲",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::4543"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823182",
+        "Name": "飞发91",
+        "pyname": "ff91",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76534",
+        "display_y": "24.53016",
+        "side": "R",
+        "address": "新街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678691.189511366421357,
+          2715479.699394579045475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823260",
+        "Name": "第三空间",
+        "pyname": "dskj",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42364",
+        "display_y": "24.40898",
+        "side": "L",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644189.553559781983495,
+          2701632.605030355509371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823261",
+        "Name": "鸿福国际时尚演艺会所弥勒站",
+        "pyname": "hfgjssyyhsmlz",
+        "kind": "6C00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41961",
+        "display_y": "24.40986",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643779.602451981045306,
+          2701725.5721745188348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823319",
+        "Name": "玲玲生活美容疗肤专科",
+        "pyname": "llshmrlfzk",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76527",
+        "display_y": "24.52979",
+        "side": "R",
+        "address": "新街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678684.598432146944106,
+          2715438.583415048662573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823426",
+        "Name": "烟草水疗",
+        "pyname": "ycsl",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": "0873-6623212",
+        "display_x": "103.75405",
+        "display_y": "24.53891",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677534.365932733984664,
+          2716434.3966298061423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823456",
+        "Name": "金鼎大酒店游泳馆",
+        "pyname": "jddjdyyg",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4228",
+        "display_y": "24.4068",
+        "side": "L",
+        "address": "温泉路弥勒县金鼎大酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644106.791362883988768,
+          2701390.074112731032073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823466",
+        "Name": "金碧辉煌商务娱乐会所",
+        "pyname": "jbhhswylhs",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4228",
+        "display_y": "24.4068",
+        "side": "L",
+        "address": "温泉路弥勒县金鼎大酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644106.791362883988768,
+          2701390.074112731032073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823563",
+        "Name": "你我他足疗保健会所",
+        "pyname": "nwtzlbjhs",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41025",
+        "display_y": "24.4111",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642828.919946698239073,
+          2701853.01366405421868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823564",
+        "Name": "伊风养生馆",
+        "pyname": "yfysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41039",
+        "display_y": "24.41108",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642843.148662677849643,
+          2701850.944497553631663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823565",
+        "Name": "小虫网城",
+        "pyname": "xcwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43982",
+        "display_y": "24.40678",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645834.851744291838259,
+          2701407.921397884376347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823592",
+        "Name": "森林网城",
+        "pyname": "slwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76112",
+        "display_y": "24.52967",
+        "side": "R",
+        "address": "环城西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678264.116986409877427,
+          2715419.796154874842614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823766",
+        "Name": "QQ发艺",
+        "pyname": "qfy",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75813",
+        "display_y": "24.53532",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677952.991279404959641,
+          2716041.932337628211826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823769",
+        "Name": "此时此刻酒吧",
+        "pyname": "csckjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75143",
+        "display_y": "24.5393",
+        "side": "R",
+        "address": "泸发大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677268.303394194925204,
+          2716474.194640918634832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.823968",
+        "Name": "冰心网城",
+        "pyname": "bxwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43026",
+        "display_y": "24.40958",
+        "side": "R",
+        "address": "红烟路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644860.804369334946387,
+          2701706.711568242870271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824081",
+        "Name": "弥勒文体中心",
+        "pyname": "mlwtzx",
+        "kind": "6600",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41526",
+        "display_y": "24.40962",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643338.691686961334199,
+          2701694.335288391914219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824213",
+        "Name": "益呈国际娱乐汇所",
+        "pyname": "ycgjylhs",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": "0873-6658166",
+        "display_x": "103.75672",
+        "display_y": "24.55842",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677777.558242865721695,
+          2718599.983112508896738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824335",
+        "Name": "葡萄山庄",
+        "pyname": "ptsz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-6332130",
+        "display_x": "103.42371",
+        "display_y": "24.32334",
+        "side": "L",
+        "address": "G326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644294.471855548443273,
+          2692142.594769232906401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824427",
+        "Name": "情缘休闲网城",
+        "pyname": "qyxxwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45411",
+        "display_y": "24.25125",
+        "side": "L",
+        "address": "S305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          647467.384520196821541,
+          2684190.1154132373631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824723",
+        "Name": "新世纪形象设计工作室",
+        "pyname": "xsjxxsjgzs",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43155",
+        "display_y": "24.40799",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644993.582579418201931,
+          2701532.006594818085432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824815",
+        "Name": "钟秀公园",
+        "pyname": "zxgy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76724",
+        "display_y": "24.52892",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678885.575240251142532,
+          2715344.83336117118597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.824985",
+        "Name": "热浪温泉",
+        "pyname": "rlwq",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": "0873-6388188",
+        "display_x": "103.409",
+        "display_y": "24.40787",
+        "side": "R",
+        "address": "弥勒生态园北门入口旁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642705.775013933423907,
+          2701493.74551668856293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825001",
+        "Name": "王者",
+        "pyname": "wz",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44125",
+        "display_y": "24.41555",
+        "side": "R",
+        "address": "花景园小区76"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645969.930526849348098,
+          2702381.467696025036275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825002",
+        "Name": "眼镜蛇酒吧",
+        "pyname": "yjsjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44097",
+        "display_y": "24.41555",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645941.501043268945068,
+          2702381.127030755393207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825003",
+        "Name": "盘丝洞呵呵",
+        "pyname": "psdhh",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44096",
+        "display_y": "24.41545",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645940.59358841390349,
+          2702370.034344087354839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825004",
+        "Name": "玩吧BUP",
+        "pyname": "wbb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44097",
+        "display_y": "24.41537",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645941.708115484914742,
+          2702361.185289345216006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825005",
+        "Name": "今生有约美容美体生活馆",
+        "pyname": "jsyymrmtshg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-3021488",
+        "display_x": "103.43306",
+        "display_y": "24.41041",
+        "side": "L",
+        "address": "桃园路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645144.14479208807461,
+          2701801.998204275965691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825177",
+        "Name": "阳光健身中心",
+        "pyname": "ygjszx",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": "0873-6130888",
+        "display_x": "103.44042",
+        "display_y": "24.40802",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645894.34263047517743,
+          2701546.055952944327146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825178",
+        "Name": "0873",
+        "pyname": "0873",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76217",
+        "display_y": "24.53189",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678367.345310646807775,
+          2715667.157701137010008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825198",
+        "Name": "乡村酒吧",
+        "pyname": "xcjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75169",
+        "display_y": "24.53866",
+        "side": "R",
+        "address": "泸发大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677295.56477224570699,
+          2716403.618087709415704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825204",
+        "Name": "温泉A区",
+        "pyname": "wqaq",
+        "kind": "6380",
+        "zipcode": null,
+        "telephone": "0873-6388656",
+        "display_x": "103.40125",
+        "display_y": "24.40165",
+        "side": "R",
+        "address": "湖泉生态园内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          641926.734441324835643,
+          2700796.328185780905187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825205",
+        "Name": "温泉B区",
+        "pyname": "wqbq",
+        "kind": "6380",
+        "zipcode": null,
+        "telephone": "0873-6388656",
+        "display_x": "103.40101",
+        "display_y": "24.39997",
+        "side": "R",
+        "address": "湖泉生态园内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          641904.343018801417202,
+          2700609.973920043092221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825280",
+        "Name": "太阳风足疗保健美容美发康体中心",
+        "pyname": "tyfzlbjmrmfktzx",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": "0873-6220821",
+        "display_x": "103.42403",
+        "display_y": "24.40893",
+        "side": "R",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644229.198303355020471,
+          2701627.512757091317326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825339",
+        "Name": "网上书城网吧",
+        "pyname": "wsscwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42856",
+        "display_y": "24.41065",
+        "side": "L",
+        "address": "新瓦房巷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644687.026644523837604,
+          2701823.31819931557402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825379",
+        "Name": "非凡灵感",
+        "pyname": "fflg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75751",
+        "display_y": "24.53528",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677890.215539742959663,
+          2716036.690457787830383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825390",
+        "Name": "蓝天护肤养生馆",
+        "pyname": "lthfysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42476",
+        "display_y": "24.40697",
+        "side": "L",
+        "address": "温泉路温泉小区18号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644305.545278536272235,
+          2701411.163267768453807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825391",
+        "Name": "挑战网吧",
+        "pyname": "tzwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42466",
+        "display_y": "24.40697",
+        "side": "L",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644295.392489041667432,
+          2701411.049097736831754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825398",
+        "Name": "东泉网吧",
+        "pyname": "dqwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76441",
+        "display_y": "24.53161",
+        "side": "L",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678594.884113215142861,
+          2715639.174576077144593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825399",
+        "Name": "动漫时代",
+        "pyname": "dmsd",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76441",
+        "display_y": "24.53161",
+        "side": "L",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678594.884113215142861,
+          2715639.174576077144593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825400",
+        "Name": "黄金海岸KTV",
+        "pyname": "hjhak",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76494",
+        "display_y": "24.53309",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678646.608043024549261,
+          2715803.977983258198947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825436",
+        "Name": "怡然阁美容美体护肤中心",
+        "pyname": "yrgmrmthfzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42831",
+        "display_y": "24.41202",
+        "side": "L",
+        "address": "新瓦房巷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644660.064877045806497,
+          2701974.842731485608965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825561",
+        "Name": "荣鑫休闲网城",
+        "pyname": "rxxxwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43992",
+        "display_y": "24.40665",
+        "side": "R",
+        "address": "环城西路与髯翁路交口处"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645845.153937400435098,
+          2701393.638762367889285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825607",
+        "Name": "演义酒吧",
+        "pyname": "yyjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44075",
+        "display_y": "24.4127",
+        "side": "L",
+        "address": "九号路下段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645922.448786268127151,
+          2702065.047963729128242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825693",
+        "Name": "任逍遥",
+        "pyname": "rxy",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44051",
+        "display_y": "24.41176",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645899.171613895567134,
+          2701960.599570423364639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825697",
+        "Name": "网中网",
+        "pyname": "wzw",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44137",
+        "display_y": "24.40757",
+        "side": "L",
+        "address": "环城北路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645991.347530231112614,
+          2701497.338387070223689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825734",
+        "Name": "西部驿站Bａｒ",
+        "pyname": "xbyzb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44006",
+        "display_y": "24.41486",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645849.884862378938124,
+          2702303.571542191319168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825798",
+        "Name": "天都网络休闲会所",
+        "pyname": "tdwlxxhs",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44046",
+        "display_y": "24.40902",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645897.264743722742423,
+          2701656.914354738313705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825799",
+        "Name": "傲世至尊网络广场A座",
+        "pyname": "aszzwlgcaz",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44044",
+        "display_y": "24.40889",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645895.369097910472192,
+          2701642.485236649401486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825800",
+        "Name": "迪龙网苑",
+        "pyname": "dlwy",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44046",
+        "display_y": "24.40877",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645897.552238139673136,
+          2701629.210871040821075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825812",
+        "Name": "兔子酒吧",
+        "pyname": "tzjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44078",
+        "display_y": "24.41102",
+        "side": "L",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645927.448937021545134,
+          2701878.923747071065009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825814",
+        "Name": "美丽人生SPA养生会馆",
+        "pyname": "mlrssyshg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41836",
+        "display_y": "24.40741",
+        "side": "L",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643655.596759906271473,
+          2701452.736972303595394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825883",
+        "Name": "千翔春蕊网吧",
+        "pyname": "qxcrwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10328",
+        "display_y": "24.22291",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611875.382262357510626,
+          2680717.884349598083645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825884",
+        "Name": "艾丽素美容特许加盟店盘溪店",
+        "pyname": "alsmrtxjmdpxd",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "13887718634",
+        "display_x": "103.10289",
+        "display_y": "24.22259",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611836.055701612960547,
+          2680682.085146961733699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825893",
+        "Name": "辰龙飞舞龙漫电玩",
+        "pyname": "clfwlmdw",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44042",
+        "display_y": "24.40802",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645894.34263047517743,
+          2701546.055952944327146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825942",
+        "Name": "东风庄园酒庄",
+        "pyname": "dfzyjz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-6332438",
+        "display_x": "103.40815",
+        "display_y": "24.30719",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642733.178425271180458,
+          2690336.162590983323753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.825988",
+        "Name": "泸西县电力公司体育馆",
+        "pyname": "lxxdlgstyg",
+        "kind": "6600",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7524",
+        "display_y": "24.5449",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677358.810374523862265,
+          2717096.14169846335426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826073",
+        "Name": "靓猫KTV",
+        "pyname": "lmk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75312",
+        "display_y": "24.53683",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677443.083573427982628,
+          2716202.70675384812057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826094",
+        "Name": "新发线创意造型",
+        "pyname": "xfxcyzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42544",
+        "display_y": "24.40691",
+        "side": "L",
+        "address": "温泉路温泉小区11号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644374.637858095113188,
+          2701405.296668209601194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826107",
+        "Name": "世纪网苑弥勒旗舰店",
+        "pyname": "sjwymlqjd",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44042",
+        "display_y": "24.40802",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645894.34263047517743,
+          2701546.055952944327146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826140",
+        "Name": "柚柚养身馆",
+        "pyname": "yyysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-3020307",
+        "display_x": "103.43192",
+        "display_y": "24.40792",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645031.224007840733975,
+          2701524.676586403045803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826141",
+        "Name": "新发线创意烫染工作室",
+        "pyname": "xfxcytrgzs",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43215",
+        "display_y": "24.40788",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645054.606392318266444,
+          2701520.510227215010673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826225",
+        "Name": "大朱美业美容美体中心",
+        "pyname": "dzmymrmtzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76625",
+        "display_y": "24.5328",
+        "side": "L",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678779.855212582275271,
+          2715773.620691467542201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826272",
+        "Name": "新视听量贩KTV",
+        "pyname": "xstlfk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76354",
+        "display_y": "24.53214",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678505.922098570386879,
+          2715696.7432797010988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826287",
+        "Name": "龙泉广场",
+        "pyname": "lqgc",
+        "kind": "7380",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.59287",
+        "display_y": "24.51743",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          661250.826261200592853,
+          2713876.753149452153593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826329",
+        "Name": "怡馨专业美容",
+        "pyname": "yxzymr",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6630998",
+        "display_x": "103.76044",
+        "display_y": "24.52936",
+        "side": "L",
+        "address": "环城西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678195.626081213587895,
+          2715384.553721775300801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826330",
+        "Name": "小琨发艺",
+        "pyname": "xkfy",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75924",
+        "display_y": "24.52787",
+        "side": "R",
+        "address": "火神庙街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678076.12724022869952,
+          2715217.891778588760644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826477",
+        "Name": "巴黎春天演艺会所",
+        "pyname": "blctyyhs",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75621",
+        "display_y": "24.5485",
+        "side": "R",
+        "address": "阿庐大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677740.01774918474257,
+          2717500.212181654758751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826510",
+        "Name": "竹家庄美食部落",
+        "pyname": "zjzmsbl",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.79941",
+        "display_y": "24.58916",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          682062.543583438964561,
+          2722066.481714801862836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826626",
+        "Name": "彝家乐",
+        "pyname": "yjl",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75303",
+        "display_y": "24.55495",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677408.368204962695017,
+          2718210.487760800402611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826645",
+        "Name": "红烟美容美发中心",
+        "pyname": "hymrmfzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6196325",
+        "display_x": "103.43221",
+        "display_y": "24.41336",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645054.438656791462563,
+          2702127.896979674696922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826654",
+        "Name": "博菲健身会所",
+        "pyname": "bfjshs",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": "0873-6622517",
+        "display_x": "103.76538",
+        "display_y": "24.53058",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678694.662853342015296,
+          2715526.316462879069149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826655",
+        "Name": "非凡灵感分店",
+        "pyname": "fflgfd",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7654",
+        "display_y": "24.53066",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678696.592878966010176,
+          2715535.212172637693584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826661",
+        "Name": "庆来公园",
+        "pyname": "qlgy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43153",
+        "display_y": "24.41152",
+        "side": "R",
+        "address": "桃园路50号附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644987.484806164051406,
+          2701923.161167147569358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826712",
+        "Name": "甲玉泉",
+        "pyname": "jyq",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": "0873-6221031",
+        "display_x": "103.39992",
+        "display_y": "24.40173",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          641791.785680864937603,
+          2700803.846267919521779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826746",
+        "Name": "尖尖慢摇吧",
+        "pyname": "jjmyb",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76436",
+        "display_y": "24.53323",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678587.590513669536449,
+          2715818.702947126701474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826798",
+        "Name": "金鼎大酒店网球场",
+        "pyname": "jddjdwqc",
+        "kind": "6602",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42281",
+        "display_y": "24.40614",
+        "side": "L",
+        "address": "温泉路弥勒县金鼎大酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644108.563487923704088,
+          2701316.953153762966394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826851",
+        "Name": "华金地休闲网城",
+        "pyname": "hjdxxwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": "0873-6222158",
+        "display_x": "103.42429",
+        "display_y": "24.40722",
+        "side": "R",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644257.546604733681306,
+          2701438.328234455082566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826909",
+        "Name": "声凰娱乐会所",
+        "pyname": "shylhs",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43936",
+        "display_y": "24.41531",
+        "side": "R",
+        "address": "同心路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645778.284427084377967,
+          2702352.588695697952062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826910",
+        "Name": "新天地网吧",
+        "pyname": "xtdwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44101",
+        "display_y": "24.41791",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645942.820523632806726,
+          2702642.694945707451552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.826932",
+        "Name": "和达网吧",
+        "pyname": "hdwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74597",
+        "display_y": "24.62784",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          676590.604746879660524,
+          2726278.29126859549433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827100",
+        "Name": "碧苑温泉会所",
+        "pyname": "bywqhs",
+        "kind": "6380",
+        "zipcode": null,
+        "telephone": "0873-6139000",
+        "display_x": "103.40433",
+        "display_y": "24.40567",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642234.586874020984396,
+          2701245.001406397670507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827101",
+        "Name": "茂升水疗会所",
+        "pyname": "msslhs",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40595",
+        "display_y": "24.40581",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642398.738880255725235,
+          2701262.228782098274678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827102",
+        "Name": "水乐园",
+        "pyname": "sly",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": "0873-6388479",
+        "display_x": "103.40441",
+        "display_y": "24.40256",
+        "side": "R",
+        "address": "湖泉生态园湖泉酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642246.090523659484461,
+          2700900.339315514080226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827103",
+        "Name": "北园沙滩游泳池",
+        "pyname": "bystyyc",
+        "kind": "6600",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41326",
+        "display_y": "24.40688",
+        "side": "R",
+        "address": "温泉路湖泉生态园附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643138.931529408902861,
+          2701388.564018271397799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827104",
+        "Name": "北纬23度OUTDOOR　BAR",
+        "pyname": "bw23dob",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41829",
+        "display_y": "24.4074",
+        "side": "L",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643648.504789293627255,
+          2701451.552099301945418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827144",
+        "Name": "千飞丝足疗按摩康体中心",
+        "pyname": "qfszlamktzx",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75294",
+        "display_y": "24.53681",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677424.868001725291833,
+          2716200.256900565233082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827145",
+        "Name": "太阳历广场",
+        "pyname": "tylgc",
+        "kind": "7380",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75376",
+        "display_y": "24.55575",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677481.245049466029741,
+          2718300.119559423532337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827189",
+        "Name": "红摩酒吧",
+        "pyname": "hmjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44118",
+        "display_y": "24.4135",
+        "side": "R",
+        "address": "花景园小区22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645965.18682927149348,
+          2702154.217621697112918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827323",
+        "Name": "朗丝发艺",
+        "pyname": "lsfy",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43986",
+        "display_y": "24.40742",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645838.169928068178706,
+          2701478.8905841531232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827427",
+        "Name": "青春美容美体社",
+        "pyname": "qcmrmts",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42636",
+        "display_y": "24.40684",
+        "side": "L",
+        "address": "温泉路温泉小区04号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644468.101306658238173,
+          2701398.598289053887129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827597",
+        "Name": "雅之韵生活馆",
+        "pyname": "yzyshg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76915",
+        "display_y": "24.52945",
+        "side": "R",
+        "address": "钟山路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          679078.545910032233223,
+          2715406.213033824693412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827673",
+        "Name": "伊美尔美容会馆",
+        "pyname": "ymemrhg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76276",
+        "display_y": "24.52841",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678432.127238858258352,
+          2715282.328198444563895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827807",
+        "Name": "玉皇公园",
+        "pyname": "yhgy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40852",
+        "display_y": "24.41987",
+        "side": "R",
+        "address": "玉大段上清路路口附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642643.832292681909166,
+          2702823.245691421907395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827808",
+        "Name": "水泊农庄",
+        "pyname": "spnz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-6220099",
+        "display_x": "103.4136",
+        "display_y": "24.41582",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643163.372190560679883,
+          2702379.637366072740406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.827809",
+        "Name": "木香园",
+        "pyname": "mxy",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41476",
+        "display_y": "24.4171",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643279.570199269684963,
+          2702522.716223646886647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828065",
+        "Name": "万重景食府",
+        "pyname": "wzjsf",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-5887666",
+        "display_x": "103.46572",
+        "display_y": "24.42126",
+        "side": "L",
+        "address": "S203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          648449.966607312788256,
+          2703045.994873116258532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828066",
+        "Name": "欢乐时空网吧",
+        "pyname": "hlskwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42501",
+        "display_y": "24.40695",
+        "side": "L",
+        "address": "温泉路温泉小区17号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644330.949969971552491,
+          2701409.235758136957884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828067",
+        "Name": "恒通网吧",
+        "pyname": "htwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44067",
+        "display_y": "24.40777",
+        "side": "L",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645920.030191667028703,
+          2701518.650415737647563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828068",
+        "Name": "神话",
+        "pyname": "sh",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44049",
+        "display_y": "24.41062",
+        "side": "R",
+        "address": "王炽路中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645898.455903538502753,
+          2701834.247686257120222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828244",
+        "Name": "主流形象设计沙龙",
+        "pyname": "zlxxsjsl",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43571",
+        "display_y": "24.40551",
+        "side": "R",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645418.874967652256601,
+          2701262.175859524402767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828335",
+        "Name": "东都桌球城",
+        "pyname": "ddzqc",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76447",
+        "display_y": "24.53319",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678598.794316638610326,
+          2715814.422221021726727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828336",
+        "Name": "心圆神话香薰美容馆",
+        "pyname": "xyshxxmrg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76452",
+        "display_y": "24.53314",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678603.937019006116316,
+          2715808.948107979726046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828337",
+        "Name": "双行道量贩KTV",
+        "pyname": "sxdlfk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76442",
+        "display_y": "24.533",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678593.991624272079207,
+          2715793.286463791970164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828360",
+        "Name": "A派发型设计",
+        "pyname": "apfxsj",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43574",
+        "display_y": "24.40647",
+        "side": "L",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645420.824169742292725,
+          2701368.601841488853097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828449",
+        "Name": "美缇美容养生馆",
+        "pyname": "mtmrysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43404",
+        "display_y": "24.40767",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645246.798084164387546,
+          2701499.529103978537023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828514",
+        "Name": "大众网城",
+        "pyname": "dzwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76627",
+        "display_y": "24.53038",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678785.202240749262273,
+          2715505.362468070816249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828515",
+        "Name": "美玲皇家美容名店泸西旗舰店",
+        "pyname": "mlhjmrmdlxqjd",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76638",
+        "display_y": "24.53031",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678796.448958725552075,
+          2715497.751215500757098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828561",
+        "Name": "蓝色妖姬美容美体女子会馆",
+        "pyname": "lsyjmrmtnzhg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6126866",
+        "display_x": "103.42758",
+        "display_y": "24.40695",
+        "side": "R",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644591.818201385671273,
+          2701412.18970764009282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828597",
+        "Name": "四舍酒馆",
+        "pyname": "ssjg",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": "0873-5924688",
+        "display_x": "103.75329",
+        "display_y": "24.53853",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677457.895306984195486,
+          2716391.296667797490954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828606",
+        "Name": "世纪风尚美发沙龙",
+        "pyname": "sjfsmfsl",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4346",
+        "display_y": "24.40757",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645303.793296001385897,
+          2701489.123436389490962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828675",
+        "Name": "快击龙网吧",
+        "pyname": "kjlwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44182",
+        "display_y": "24.40735",
+        "side": "R",
+        "address": "环城北路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          646037.306296162772924,
+          2701473.504092375747859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828852",
+        "Name": "路客",
+        "pyname": "lk",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42119",
+        "display_y": "24.4075",
+        "side": "L",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643942.566657083109021,
+          2701465.787856630049646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828853",
+        "Name": "紫禁城网络休闲广场",
+        "pyname": "zjcwlxxgc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43372",
+        "display_y": "24.40536",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645216.938891798490658,
+          2701243.132247742731124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828864",
+        "Name": "正发网吧",
+        "pyname": "zfwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74589",
+        "display_y": "24.62711",
+        "side": "R",
+        "address": "豆泸线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          676583.536781315226108,
+          2726197.299298260826617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828865",
+        "Name": "艺人组合专业美发连琐机构昆明NO．6",
+        "pyname": "yrzhzymflsjgkmn6",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43566",
+        "display_y": "24.40617",
+        "side": "L",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645413.04209926771,
+          2701335.259496374055743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828952",
+        "Name": "宇龙网络会所",
+        "pyname": "ylwlhs",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43757",
+        "display_y": "24.40457",
+        "side": "R",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645608.85924486303702,
+          2701160.260045025963336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828958",
+        "Name": "老地方",
+        "pyname": "ldf",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10115",
+        "display_y": "24.22209",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611659.762922090827487,
+          2680625.185418637935072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828959",
+        "Name": "嘉嘉电脑室",
+        "pyname": "jjdns",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10446",
+        "display_y": "24.2196",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611998.10359137004707,
+          2680352.038034760858864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.828960",
+        "Name": "诚信网吧",
+        "pyname": "cxwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": "13988436029",
+        "display_x": "103.10403",
+        "display_y": "24.21989",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611954.183165624039248,
+          2680383.810339194256812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829089",
+        "Name": "云鹏网城",
+        "pyname": "ypwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76361",
+        "display_y": "24.53222",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678512.924157561734319,
+          2715705.704840989783406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829155",
+        "Name": "嫣紫轩KTV休闲吧",
+        "pyname": "yzxkxxb",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.32272",
+        "display_y": "24.14943",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          634241.634968257858418,
+          2672779.041546510532498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829334",
+        "Name": "靠岸Kａ",
+        "pyname": "kak",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44001",
+        "display_y": "24.41379",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645846.039131070952863,
+          2702184.940891524311155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829335",
+        "Name": "时光酒吧",
+        "pyname": "sgjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44024",
+        "display_y": "24.414",
+        "side": "L",
+        "address": "王炽商业文化城内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645869.151406367775053,
+          2702208.489586347248405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829342",
+        "Name": "湖泉酒店网球场",
+        "pyname": "hqjdwqc",
+        "kind": "6602",
+        "zipcode": null,
+        "telephone": "0873-6196499",
+        "display_x": "103.40446",
+        "display_y": "24.39917",
+        "side": "R",
+        "address": "湖泉生态园湖泉酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642255.056958275381476,
+          2700524.837820292916149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829463",
+        "Name": "精益网城",
+        "pyname": "jywc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76225",
+        "display_y": "24.53236",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678374.817452560411766,
+          2715719.365471955854446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829489",
+        "Name": "美肤源中医亚健康理疗会所",
+        "pyname": "mfyzyyjkllhs",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6624381",
+        "display_x": "103.7648",
+        "display_y": "24.53038",
+        "side": "R",
+        "address": "北正街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678636.125806188210845,
+          2715503.346936895046383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829514",
+        "Name": "神话轮回",
+        "pyname": "shlh",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44095",
+        "display_y": "24.41523",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645939.842459303792566,
+          2702345.645137630868703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829515",
+        "Name": "水木年华",
+        "pyname": "smnh",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44121",
+        "display_y": "24.41515",
+        "side": "R",
+        "address": "花景园小区66"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645966.337326537119225,
+          2702337.095102638937533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829520",
+        "Name": "欢乐谷",
+        "pyname": "hlg",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42831",
+        "display_y": "24.41088",
+        "side": "L",
+        "address": "新瓦房巷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644661.383129373658448,
+          2701848.516945101786405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829537",
+        "Name": "巴缇雅",
+        "pyname": "bty",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44122",
+        "display_y": "24.41502",
+        "side": "R",
+        "address": "花景园小区64"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645967.491186716826633,
+          2702322.702055467758328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829538",
+        "Name": "演义酒吧",
+        "pyname": "yyjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44095",
+        "display_y": "24.41489",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645940.233664766186848,
+          2702307.969650818500668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829541",
+        "Name": "仰月阁美容美体中心",
+        "pyname": "yygmrmtzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6892741",
+        "display_x": "103.43388",
+        "display_y": "24.41143",
+        "side": "L",
+        "address": "桃园路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645226.260087765520439,
+          2701916.037393965292722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829542",
+        "Name": "中成音乐广场",
+        "pyname": "zcyygc",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0873-6129911",
+        "display_x": "103.43032",
+        "display_y": "24.40878",
+        "side": "R",
+        "address": "红烟路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644867.816738676279783,
+          2701618.128176331054419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829599",
+        "Name": "东风龙缘酒庄",
+        "pyname": "dflyjz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-6331699",
+        "display_x": "103.40645",
+        "display_y": "24.3071",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642560.674163684481755,
+          2690324.343649598769844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829624",
+        "Name": "酸蚂蚁",
+        "pyname": "smy",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75401",
+        "display_y": "24.5556",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677506.811044511036016,
+          2718283.843957803677768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829726",
+        "Name": "靓点KTV",
+        "pyname": "ldk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0873-6225222",
+        "display_x": "103.42267",
+        "display_y": "24.40944",
+        "side": "R",
+        "address": "冉翁西路弥勒大酒店3楼"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644090.572787769604474,
+          2701682.452238612808287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829750",
+        "Name": "凯斯时尚娱乐会所",
+        "pyname": "ksssylhs",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.77316",
+        "display_y": "24.52376",
+        "side": "L",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          679493.31634598551318,
+          2714781.158876251894981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.829981",
+        "Name": "虎城KTV",
+        "pyname": "hck",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0873-6653556",
+        "display_x": "103.75589",
+        "display_y": "24.54621",
+        "side": "L",
+        "address": "阿庐大街中段虎城宾馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677710.848030145280063,
+          2717246.061362211126834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830134",
+        "Name": "源琳纤体美容会所",
+        "pyname": "ylxtmrhs",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44005",
+        "display_y": "24.41468",
+        "side": "R",
+        "address": "王炽商业文化城内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645849.069308235077187,
+          2702283.614765483886003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830197",
+        "Name": "星牌台球城",
+        "pyname": "xptqc",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": "0873-8845147",
+        "display_x": "103.43587",
+        "display_y": "24.40593",
+        "side": "R",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645434.645417790627107,
+          2701308.917758812196553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830269",
+        "Name": "阿庐文化中心体育馆",
+        "pyname": "alwhzxtyg",
+        "kind": "6600",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75262",
+        "display_y": "24.55027",
+        "side": "L",
+        "address": "泸发大街中上段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677373.474119332851842,
+          2717691.414939607959241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830400",
+        "Name": "时代创艺造型空间",
+        "pyname": "sdcyzxkj",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76264",
+        "display_y": "24.53214",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678414.664112737169489,
+          2715695.508345598820597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830613",
+        "Name": "银乐迪经典会所",
+        "pyname": "yldjdhs",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7714",
+        "display_y": "24.52574",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          679311.969895494286902,
+          2714998.128601966891438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830614",
+        "Name": "茗仕美容城",
+        "pyname": "msmrc",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6622956",
+        "display_x": "103.77174",
+        "display_y": "24.52584",
+        "side": "L",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          679346.329436341417022,
+          2715009.68997582886368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830615",
+        "Name": "泸西县体育馆",
+        "pyname": "lxxtyg",
+        "kind": "6600",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76738",
+        "display_y": "24.52984",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678898.519206106080674,
+          2715447.019901551306248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830787",
+        "Name": "帝豪休闲网城",
+        "pyname": "dhxxwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44047",
+        "display_y": "24.41004",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645897.096056207083166,
+          2701769.954468136653304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830788",
+        "Name": "皇冠造型二号小组",
+        "pyname": "hgzxehxz",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44048",
+        "display_y": "24.40986",
+        "side": "R",
+        "address": "王炽路中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645898.307372717768885,
+          2701750.018734553363174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830811",
+        "Name": "1＋1电玩",
+        "pyname": "1+1dw",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76554",
+        "display_y": "24.53152",
+        "side": "L",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678709.604705920210108,
+          2715630.746892421972007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.830815",
+        "Name": "新偶像专业美容美发沙龙",
+        "pyname": "xoxzymrmfsl",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75779",
+        "display_y": "24.53495",
+        "side": "L",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677919.068643284845166,
+          2716000.488801564089954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831000",
+        "Name": "昇恒KTV",
+        "pyname": "shk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75272",
+        "display_y": "24.53842",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677400.291251938673668,
+          2716378.367510163690895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831047",
+        "Name": "红叶红酒吧",
+        "pyname": "hyhjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44123",
+        "display_y": "24.41708",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645966.124621915747412,
+          2702550.98563322937116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831210",
+        "Name": "锐智网吧",
+        "pyname": "rzwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75981",
+        "display_y": "24.53017",
+        "side": "L",
+        "address": "西正街139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678130.625533568672836,
+          2715473.482662910595536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831252",
+        "Name": "千欣美容美发足疗会所",
+        "pyname": "qxmrmfzlhs",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75601",
+        "display_y": "24.53635",
+        "side": "R",
+        "address": "阿庐大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677736.662663640105166,
+          2716153.293490724638104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831295",
+        "Name": "云馨娱乐城",
+        "pyname": "yxylc",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0877-5092318",
+        "display_x": "103.10205",
+        "display_y": "24.21831",
+        "side": "L",
+        "address": "分盘路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611754.454807551810518,
+          2680207.021435567177832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831302",
+        "Name": "新天都网络休闲会所",
+        "pyname": "xtdwlxxhs",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": "0873-6138768",
+        "display_x": "103.4299",
+        "display_y": "24.41065",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644823.026311315363273,
+          2701824.862640600185841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831387",
+        "Name": "炫宇网城",
+        "pyname": "xywc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76163",
+        "display_y": "24.53265",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678311.537551002344117,
+          2715750.668852850794792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831388",
+        "Name": "圣美舫美容美体养身馆",
+        "pyname": "smfmrmtysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76166",
+        "display_y": "24.53238",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678314.966078895842656,
+          2715720.786050809081644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831389",
+        "Name": "皇族",
+        "pyname": "hz",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76225",
+        "display_y": "24.53236",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678374.817452560411766,
+          2715719.365471955854446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831391",
+        "Name": "光之翼网吧",
+        "pyname": "gzywb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76818",
+        "display_y": "24.52733",
+        "side": "L",
+        "address": "环城东路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678983.106275805854239,
+          2715169.850922376848757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831392",
+        "Name": "一帆网场",
+        "pyname": "yfwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76829",
+        "display_y": "24.52756",
+        "side": "L",
+        "address": "环城东路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678993.945763578172773,
+          2715195.502405101899058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831432",
+        "Name": "南乡公园",
+        "pyname": "nxgy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40057",
+        "display_y": "24.30484",
+        "side": "R",
+        "address": "东风医院附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          641966.137881128350273,
+          2690067.465342071373016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831528",
+        "Name": "爱丽SPA美容沙龙",
+        "pyname": "alsmrsl",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76526",
+        "display_y": "24.53022",
+        "side": "R",
+        "address": "新街31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678683.003868056694046,
+          2715486.242776256985962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831542",
+        "Name": "傲世天下网络广场B座",
+        "pyname": "astxwlgcbz",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44045",
+        "display_y": "24.40853",
+        "side": "R",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645896.805670584319159,
+          2701602.602434111759067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831730",
+        "Name": "ｅ族部落网吧",
+        "pyname": "ezblwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43454",
+        "display_y": "24.40897",
+        "side": "R",
+        "address": "西山路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645296.090905186603777,
+          2701644.206726589240134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831741",
+        "Name": "春江园农家乐",
+        "pyname": "cjynjl",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-6652020",
+        "display_x": "103.75526",
+        "display_y": "24.55807",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677630.030387932551093,
+          2718559.20799358934164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831742",
+        "Name": "春江园浴足康体中心",
+        "pyname": "cjyyzktzx",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75526",
+        "display_y": "24.55807",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677630.030387932551093,
+          2718559.20799358934164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831852",
+        "Name": "V世纪",
+        "pyname": "vsj",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44001",
+        "display_y": "24.41401",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645845.786169740837067,
+          2702209.31965888151899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831867",
+        "Name": "老建明网吧",
+        "pyname": "ljmwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76372",
+        "display_y": "24.53231",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678523.943982174037956,
+          2715715.83366434276104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831868",
+        "Name": "神怡康体中心",
+        "pyname": "syktzx",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76369",
+        "display_y": "24.53264",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678520.448170437244698,
+          2715752.378005375619978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831869",
+        "Name": "湖泉酒店高球练习场",
+        "pyname": "hqjdgqlxc",
+        "kind": "6181",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40419",
+        "display_y": "24.39846",
+        "side": "R",
+        "address": "湖泉生态园湖泉酒店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642228.496340238023549,
+          2700445.911938541568816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831903",
+        "Name": "星期天",
+        "pyname": "xqt",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44096",
+        "display_y": "24.4147",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645941.456543006468564,
+          2702286.927140965592116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831904",
+        "Name": "那时那刻",
+        "pyname": "nsnk",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4412",
+        "display_y": "24.41421",
+        "side": "R",
+        "address": "花景园小区43"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645966.396576774423011,
+          2702232.91880002990365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831905",
+        "Name": "深度撞击BAR",
+        "pyname": "sdzjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44094",
+        "display_y": "24.41395",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645940.292706299922429,
+          2702203.793361451011151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.831969",
+        "Name": "玉和浓香园",
+        "pyname": "yhnxy",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-5886666",
+        "display_x": "103.41651",
+        "display_y": "24.41973",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643454.091034082928672,
+          2702816.033378616906703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832017",
+        "Name": "新天龙商务会所",
+        "pyname": "xtlswhs",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0873-6651444",
+        "display_x": "103.75761",
+        "display_y": "24.55252",
+        "side": "R",
+        "address": "阿庐大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677876.230484494008124,
+          2717947.515399651601911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832045",
+        "Name": "美琦莎康体美容养生馆",
+        "pyname": "mqsktmrysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44083",
+        "display_y": "24.41342",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645929.745979059953243,
+          2702144.929170947521925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832046",
+        "Name": "第九大道",
+        "pyname": "djdd",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44074",
+        "display_y": "24.41338",
+        "side": "L",
+        "address": "九号路下段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645920.643952938611619,
+          2702140.392730160616338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832216",
+        "Name": "地下酒层",
+        "pyname": "dxjc",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44025",
+        "display_y": "24.41376",
+        "side": "L",
+        "address": "王炽商业文化城内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645870.449923063977621,
+          2702181.907896916382015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832226",
+        "Name": "有个发廊",
+        "pyname": "ygfl",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44018",
+        "display_y": "24.40655",
+        "side": "L",
+        "address": "环城西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645871.673510038410313,
+          2701382.869401252828538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832259",
+        "Name": "激情公社酒吧",
+        "pyname": "jqgsjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42365",
+        "display_y": "24.40726",
+        "side": "R",
+        "address": "温泉路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644192.549072572379373,
+          2701442.023639693390578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832406",
+        "Name": "啰哩农家苑",
+        "pyname": "llnjy",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.97879",
+        "display_y": "24.6546",
+        "side": "R",
+        "address": "啰哩山附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          598926.374045541742817,
+          2728482.053303476888686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832442",
+        "Name": "卡门酒吧",
+        "pyname": "kmjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44069",
+        "display_y": "24.40883",
+        "side": "L",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645920.837929616565816,
+          2701636.138166667427868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832473",
+        "Name": "北冰洋KTV酒吧",
+        "pyname": "bbykjb",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76455",
+        "display_y": "24.53232",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678608.108939913799986,
+          2715718.081330963410437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832563",
+        "Name": "宏大网城",
+        "pyname": "hdwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76538",
+        "display_y": "24.53058",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678694.662853342015296,
+          2715526.316462879069149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832582",
+        "Name": "健乐门电气石细胞养生馆",
+        "pyname": "jlmdqsxbysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6125513",
+        "display_x": "103.44034",
+        "display_y": "24.41609",
+        "side": "R",
+        "address": "王织商业文化城三期自建47号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645876.899832846946083,
+          2702440.208252585027367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832723",
+        "Name": "永恒网城",
+        "pyname": "yhwc",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43686",
+        "display_y": "24.40725",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645533.691810423741117,
+          2701456.410067713353783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832724",
+        "Name": "愿景村",
+        "pyname": "yjc",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44095",
+        "display_y": "24.41482",
+        "side": "L",
+        "address": "王炽商业文化城三期自建中段"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645940.314212858793326,
+          2702300.212314036674798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832725",
+        "Name": "湖泉生态园",
+        "pyname": "hqsty",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41093",
+        "display_y": "24.4026",
+        "side": "R",
+        "address": "髯翁西路延长线弥勒县政府对面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642907.334288249956444,
+          2700911.674549335613847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832726",
+        "Name": "星光灿烂娱乐城",
+        "pyname": "xgclylc",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42566",
+        "display_y": "24.40997",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644393.451276568113826,
+          2701744.633144322782755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832768",
+        "Name": "红月网吧",
+        "pyname": "hywb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76264",
+        "display_y": "24.53214",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678414.664112737169489,
+          2715695.508345598820597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832915",
+        "Name": "妆颜手绘坊",
+        "pyname": "zyshf",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7626",
+        "display_y": "24.53217",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678410.571384165319614,
+          2715698.782879809848964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832916",
+        "Name": "刀神美业",
+        "pyname": "dsmy",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43652",
+        "display_y": "24.40729",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645499.115685304626822,
+          2701460.429887651000172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832917",
+        "Name": "启航网吧",
+        "pyname": "qhwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43711",
+        "display_y": "24.40747",
+        "side": "L",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645558.821214354480617,
+          2701481.09696932323277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.832963",
+        "Name": "农夫鱼庄",
+        "pyname": "nfyz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-2998999",
+        "display_x": "103.41668",
+        "display_y": "24.41993",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          643471.100909864297137,
+          2702838.378884706646204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833032",
+        "Name": "芙之蔓美容养生馆",
+        "pyname": "fzmmrysg",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.09936",
+        "display_y": "24.22027",
+        "side": "L",
+        "address": "分盘路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611479.644167690421455,
+          2680422.057926991023123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833090",
+        "Name": "青闲",
+        "pyname": "qx",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44075",
+        "display_y": "24.4107",
+        "side": "L",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645924.767657331307419,
+          2701843.425727441441268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833107",
+        "Name": "金色年华娱乐会所",
+        "pyname": "jsnhylhs",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0873-5924466",
+        "display_x": "103.75439",
+        "display_y": "24.53675",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677571.90554103453178,
+          2716195.496419713366777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833173",
+        "Name": "紫钻",
+        "pyname": "zz",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44026",
+        "display_y": "24.41438",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645870.741176154464483,
+          2702250.623131897300482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833192",
+        "Name": "高原美专业美容养生会所",
+        "pyname": "gymzymryshs",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "13987739757",
+        "display_x": "103.1036",
+        "display_y": "24.22282",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611907.972483206423931,
+          2680708.181063870433718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833329",
+        "Name": "青闲足疗按摩康体中心",
+        "pyname": "qxzlamktzx",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44074",
+        "display_y": "24.41137",
+        "side": "L",
+        "address": "王炽路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645922.974414491094649,
+          2701917.658170486800373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833379",
+        "Name": "你我他时尚空间",
+        "pyname": "nwtsskj",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4352",
+        "display_y": "24.40749",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645364.819408054463565,
+          2701480.988945314660668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833395",
+        "Name": "一网情深网吧",
+        "pyname": "ywqswb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": "0873-6650352",
+        "display_x": "103.75702",
+        "display_y": "24.55818",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677808.322024309891276,
+          2718573.799475871026516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833450",
+        "Name": "蒂凡尼",
+        "pyname": "dfn",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10366",
+        "display_y": "24.2239",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611913.098924593999982,
+          2680827.896065491717309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833451",
+        "Name": "发丝流彩",
+        "pyname": "fslc",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "13987784853",
+        "display_x": "103.10322",
+        "display_y": "24.22427",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611868.086255308473483,
+          2680868.519198881927878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833607",
+        "Name": "东方龙KTV",
+        "pyname": "dflk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75241",
+        "display_y": "24.5371",
+        "side": "R",
+        "address": "泸发大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677370.750720148673281,
+          2716231.699407381005585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833905",
+        "Name": "鸟巢",
+        "pyname": "nc",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44002",
+        "display_y": "24.41434",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645846.429267816944048,
+          2702245.89786760462448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.833913",
+        "Name": "九号战场网吧",
+        "pyname": "jhzcwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42907",
+        "display_y": "24.41325",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644735.790429594926536,
+          2702112.012197905220091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.834272",
+        "Name": "鸿基渔业",
+        "pyname": "hjyy",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0873-5922699",
+        "display_x": "103.74726",
+        "display_y": "24.56615",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          676808.34588623244781,
+          2719444.463923336938024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.834284",
+        "Name": "回归线美容美体中心",
+        "pyname": "hgxmrmtzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6629832",
+        "display_x": "103.76385",
+        "display_y": "24.53275",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678536.529789214138873,
+          2715764.791189854964614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.834285",
+        "Name": "斯琴美容",
+        "pyname": "sqmr",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "0873-6624331",
+        "display_x": "103.76405",
+        "display_y": "24.53294",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678556.548255475470796,
+          2715786.131261245813221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.834286",
+        "Name": "众艺KTV量贩",
+        "pyname": "zyklf",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76413",
+        "display_y": "24.53302",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          678564.553617177996784,
+          2715795.110104787163436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.834407",
+        "Name": "星空俱乐部",
+        "pyname": "xkjlb",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": "0873-6388689",
+        "display_x": "103.40389",
+        "display_y": "24.40376",
+        "side": "R",
+        "address": "湖泉生态园湖泉酒店B座前楼内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642192.044071713229641,
+          2701032.810606317128986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.834435",
+        "Name": "华盛网吧",
+        "pyname": "hswb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.01727",
+        "display_y": "24.05915",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          603291.444506458821706,
+          2662519.675456395372748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836038",
+        "Name": "弥勒印象音乐酒吧",
+        "pyname": "mlyxyyjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44025",
+        "display_y": "24.41411",
+        "side": "L",
+        "address": "王炽商业文化城内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645870.047439197194763,
+          2702220.690137016586959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836039",
+        "Name": "红河谷酒吧",
+        "pyname": "hhgjb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44026",
+        "display_y": "24.41421",
+        "side": "L",
+        "address": "王炽商业文化城内"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645870.936707859276794,
+          2702231.782624371815473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836345",
+        "Name": "红歌汇KTV",
+        "pyname": "hghk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0877-5092541",
+        "display_x": "103.10233",
+        "display_y": "24.22007",
+        "side": "L",
+        "address": "盘溪派出所附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611781.352591223199852,
+          2680402.303789095021784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836473",
+        "Name": "钓鱼岛休闲庄",
+        "pyname": "dydxxz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "13577369115",
+        "display_x": "103.92229",
+        "display_y": "24.7088",
+        "side": "L",
+        "address": "S312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          694338.68247043993324,
+          2735506.704280412290245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836782",
+        "Name": "大众桑拿",
+        "pyname": "dzsn",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75534",
+        "display_y": "24.55786",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677638.443442930933088,
+          2718536.050905905663967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836787",
+        "Name": "金都娱乐城",
+        "pyname": "jdylc",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44267",
+        "display_y": "24.41619",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          646113.385837851092219,
+          2702454.102693902794272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836788",
+        "Name": "藏蒸堂",
+        "pyname": "zzt",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44097",
+        "display_y": "24.41605",
+        "side": "R",
+        "address": "王炽商业文化城三期自建69号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645940.925685570924543,
+          2702436.535161595325917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836852",
+        "Name": "网缘电脑屋",
+        "pyname": "wydnw",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4352",
+        "display_y": "24.40749",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645364.819408054463565,
+          2701480.988945314660668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.836853",
+        "Name": "新兴网吧",
+        "pyname": "xxwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4352",
+        "display_y": "24.40749",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645364.819408054463565,
+          2701480.988945314660668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.837434",
+        "Name": "龙腾电玩城",
+        "pyname": "ltdwc",
+        "kind": "6D00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75716",
+        "display_y": "24.53522",
+        "side": "R",
+        "address": "九华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677854.833944921265356,
+          2716029.582190733868629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.837778",
+        "Name": "尼米人家",
+        "pyname": "nmrj",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0871-67731247",
+        "display_x": "103.52839",
+        "display_y": "24.66195",
+        "side": "L",
+        "address": "九石阿公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          654527.739789143204689,
+          2729803.912649230565876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.837828",
+        "Name": "月海回味",
+        "pyname": "yhhw",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.32598",
+        "display_y": "23.93334",
+        "side": "L",
+        "address": "G326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          634798.379555871943012,
+          2648833.112042060587555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.837974",
+        "Name": "美丽小铺",
+        "pyname": "mlxp",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": "13887752087",
+        "display_x": "102.98336",
+        "display_y": "24.4372",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          599559.673378525185399,
+          2704398.637885194737464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.838195",
+        "Name": "竹山人文历史园",
+        "pyname": "zsrwlsy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.115",
+        "display_y": "24.56499",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          612760.400240995339118,
+          2718632.144566975533962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.838663",
+        "Name": "美莲化妆品护理中心",
+        "pyname": "mlhzphlzx",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75461",
+        "display_y": "24.54125",
+        "side": "R",
+        "address": "阿庐大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          677587.8793521579355,
+          2716694.5009307092987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.838664",
+        "Name": "女人心美丽健康家园",
+        "pyname": "nrxmljkjy",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42609",
+        "display_y": "24.40686",
+        "side": "L",
+        "address": "温泉路温泉小区08号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644440.669679093174636,
+          2701400.500298712402582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.838665",
+        "Name": "时尚品味",
+        "pyname": "sspw",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42409",
+        "display_y": "24.4062",
+        "side": "L",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644238.41883041721303,
+          2701325.071040478069335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.838666",
+        "Name": "欧恪米兰时光逆转驻颜铂金会所",
+        "pyname": "okmlsgnzzybjhs",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42408",
+        "display_y": "24.40614",
+        "side": "L",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644237.482713773613796,
+          2701318.410207160748541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.838667",
+        "Name": "尚品美颜坊",
+        "pyname": "spmyf",
+        "kind": "A080",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42406",
+        "display_y": "24.406",
+        "side": "L",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644235.614922591252252,
+          2701302.874833807349205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.839016",
+        "Name": "红河春天高尔夫球会",
+        "pyname": "hhctgefqh",
+        "kind": "6180",
+        "zipcode": null,
+        "telephone": "0873-6137277",
+        "display_x": "103.40638",
+        "display_y": "24.39536",
+        "side": "R",
+        "address": "弥阳镇湖泉生态园西南"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642454.164532606489956,
+          2700104.733468085061759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.840144",
+        "Name": "梦江园",
+        "pyname": "mjy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.11513",
+        "display_y": "24.56441",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          612774.12212357041426,
+          2718568.038558245170861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.840489",
+        "Name": "楼山彝寨",
+        "pyname": "lsyz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.0057",
+        "display_y": "24.15089",
+        "side": "R",
+        "address": "登楼山附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          602046.20303940679878,
+          2672681.545743141323328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.840490",
+        "Name": "小江桥休闲中心",
+        "pyname": "xjqxxzx",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0877-5091444",
+        "display_x": "103.10952",
+        "display_y": "24.2225",
+        "side": "L",
+        "address": "盘江加油站附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          612509.516081535373814,
+          2680677.800398917868733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.842725",
+        "Name": "东方明珠",
+        "pyname": "dfmz",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "15969291999",
+        "display_x": "103.85851",
+        "display_y": "24.04084",
+        "side": "L",
+        "address": "S305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          688873.413847598596476,
+          2661384.837632049806416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.843172",
+        "Name": "文化广场",
+        "pyname": "whgc",
+        "kind": "7380",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.55524",
+        "display_y": "24.64207",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          657277.217514635645784,
+          2727639.083814579062164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.846245",
+        "Name": "龙潭苑休闲山庄",
+        "pyname": "ltyxxsz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0877-5069538",
+        "display_x": "103.11938",
+        "display_y": "24.24761",
+        "side": "L",
+        "address": "七犀潭公园附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          613488.731647621490993,
+          2683468.99894919199869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.846246",
+        "Name": "七犀潭公园",
+        "pyname": "qxtgy",
+        "kind": "7300",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.12112",
+        "display_y": "24.24542",
+        "side": "R",
+        "address": "华盘二级公路附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          613667.483004325185902,
+          2683227.920278437435627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.846505",
+        "Name": "CC吧",
+        "pyname": "cb",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10081",
+        "display_y": "24.21687",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          611629.828825076692738,
+          2680046.434456217568368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.849778",
+        "Name": "一碗水山庄",
+        "pyname": "ywssz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0871-67640576",
+        "display_x": "103.14771",
+        "display_y": "24.67794",
+        "side": "R",
+        "address": "XA32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          615971.481152418418787,
+          2731176.676561097148806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.849929",
+        "Name": "自娱自乐",
+        "pyname": "zyzl",
+        "kind": "1500",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44124",
+        "display_y": "24.4159",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          645968.505220170831308,
+          2702420.238228149712086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.849930",
+        "Name": "晶鑫KTV",
+        "pyname": "jxk",
+        "kind": "6680",
+        "zipcode": null,
+        "telephone": "0873-5833766",
+        "display_x": "103.44274",
+        "display_y": "24.41597",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          646120.760348686948419,
+          2702429.807907869573683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.850995",
+        "Name": "隆源庄",
+        "pyname": "lyz",
+        "kind": "6700",
+        "zipcode": null,
+        "telephone": "0877-5065847",
+        "display_x": "103.00287",
+        "display_y": "24.47821",
+        "side": "L",
+        "address": "四家村附近"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          601497.444288270431571,
+          2708950.127034048549831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.852353",
+        "Name": "重庆富桥保健足疗",
+        "pyname": "cqfqbjzl",
+        "kind": "A100",
+        "zipcode": null,
+        "telephone": "0873-5884666",
+        "display_x": "103.40921",
+        "display_y": "24.41123",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          642723.304690746008419,
+          2701866.315889068879187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.852490",
+        "Name": "速腾网吧",
+        "pyname": "stwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": "13987119666",
+        "display_x": "103.11694",
+        "display_y": "24.57221",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          612950.114310466917232,
+          2719433.458646931685507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_ent_pt.852500",
+        "Name": "冰风谷网吧",
+        "pyname": "bfgwb",
+        "kind": "6E00",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42992",
+        "display_y": "24.41254",
+        "side": "L",
+        "address": "红烟路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          644822.877201158320531,
+          2702034.320701376534998
+        ]
+      }
+    }
+  ]
+}

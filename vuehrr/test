@@ -1,0 +1,152 @@
+<template>
+  <div id="mapCon">
+    <!-- 工具控制面板 -->
+    <div class="map-control top-left tools-panel">
+      <button
+          v-for="tool in tools"
+          :key="tool.mode"
+          @click="toggleTool(tool.mode)"
+          :class="{ active: currentTool === tool.mode }"
+      >
+        {{ tool.label }}
+      </button>
+      <button @click="clearAll" class="danger">清空</button>
+    </div>
+
+    <!-- 相机控制面板 -->
+    <div class="map-control top-right camera-panel">
+      <div class="control-group">
+        <input v-model.number="targetLng" placeholder="经度" type="number">
+        <input v-model.number="targetLat" placeholder="纬度" type="number">
+        <input v-model.number="targetZoom" placeholder="缩放级别" type="number" step="0.5" min="0" max="20">
+      </div>
+      <button @click="moveCamera" :disabled="!isValidInput">移动视图</button>
+      <button @click="resetCamera" class="secondary">重置视图</button>
+    </div>
+
+    <!-- 测量结果展示 -->
+    <div v-if="measurement" class="measurement-result">
+      <!-- ...原有测量结果模板... -->
+    </div>
+
+    <!-- 鼠标坐标展示 -->
+    <div class="mouse-position">
+      {{ mousePosition || "移动鼠标获取坐标..." }}
+    </div>
+  </div>
+</template>
+
+<script>
+import mapboxgl from 'mapbox-gl';
+import MapboxDraw from '@mapbox/mapbox-gl-draw';
+import turf from '@turf/turf';
+
+export default {
+  name: 'Map2D',
+  data() {
+    return {
+      // 原有数据...
+      // 新增相机控制相关数据
+      targetLng: 114.417,
+      targetLat: 23.1075,
+      targetZoom: 12,
+      defaultPosition: {
+        lng: 114.417,
+        lat: 23.1075,
+        zoom: 12
+      }
+    };
+  },
+  computed: {
+    isValidInput() {
+      return (
+        Math.abs(this.targetLng) <= 180 &&
+        Math.abs(this.targetLat) <= 90 &&
+        this.targetZoom >= 0 &&
+        this.targetZoom <= 20
+      );
+    }
+  },
+  methods: {
+    // 原有方法...
+
+    // 新增相机控制方法
+    moveCamera() {
+      if (!this.isValidInput) return;
+
+      this.map.flyTo({
+        center: [this.targetLng, this.targetLat],
+        zoom: this.targetZoom,
+        speed: 0.8,          // 动画速度（默认1.2）
+        curve: 1.42,         // 飞行曲线（默认1.42）
+        essential: true      // 关键动画（不可被用户取消）
+      });
+    },
+
+    resetCamera() {
+      this.targetLng = this.defaultPosition.lng;
+      this.targetLat = this.defaultPosition.lat;
+      this.targetZoom = this.defaultPosition.zoom;
+      this.moveCamera();
+    },
+
+    // 修改初始化方法保存默认位置
+    initMap() {
+      this.map = new mapboxgl.Map({
+        // 原有配置...
+      });
+
+      // 保存初始位置为默认值
+      this.defaultPosition = {
+        lng: this.map.getCenter().lng,
+        lat: this.map.getCenter().lat,
+        zoom: this.map.getZoom()
+      };
+
+      // 原有初始化代码...
+    }
+  }
+};
+</script>
+
+<style scoped>
+/* 新增相机控制面板样式 */
+.camera-panel {
+  right: 20px;
+  left: auto;
+  max-width: 320px;
+}
+
+.control-group {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+  transition: border-color 0.3s;
+}
+
+input:focus {
+  border-color: #3bb2d0;
+  outline: none;
+}
+
+button.secondary {
+  background: #f0f0f0;
+  color: #333;
+  margin-left: 8px;
+}
+
+button:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* 原有样式... */
+</style>

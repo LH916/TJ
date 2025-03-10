@@ -1,0 +1,98 @@
+<!--
+ * @Author: your name
+ * @Date: 2022-01-12 20:31:57
+ * @LastEditTime: 2022-01-17 13:16:11
+ * @LastEditors: Please set LastEditors
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: \SZWSTEP\src\utils\aaa.html
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body,
+      html {
+        width: 100%;
+        height: 100%;
+      }
+      /* .box{
+          width: 300px;
+          height: 170px;
+      } */
+      .box{
+          width: 100%;
+          height: 100%;
+          /* background-color: #000; */
+      }
+      .title {
+        width: 95%;
+        margin: 0 auto;
+        padding: 10px 20px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+        background: url("./小标.png") no-repeat center;
+        background-size: 100% 100%;
+      }
+      .title span {
+        font-size: 32px;
+        color: #fff;
+      }
+      .title .value {
+        font-size: 56px;
+        line-height: 60px;
+        margin-left: 10px;
+        font-family: Tencent cursive;
+        font-weight: 600;
+      }
+      .arrowImg {
+        width: 100%;
+        height: 80px;
+        /* margin-top: 20px; */
+        background: url("./24gl-building.png") no-repeat center;
+        background-size: auto 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <div class="title">
+        <span id="ruzhulv">入住率</span>
+        <span class="value" id="ruzhuvalue">57%</span>
+      </div>
+      <div class="arrowImg"></div>
+    </div>
+    <script>
+      function GetQueryString(variable) {
+        var query = window.location.search.substring(1);
+        var vars = query.split("&");
+        for (var i = 0; i < vars.length; i++) {
+          var pair = vars[i].split("=");
+          if (pair[0] == variable) {
+            return pair[1];
+          }
+        }
+        return null;
+      }
+      window.onload = function () {
+        let label = GetQueryString("label");
+        let value = GetQueryString("value");
+        let numdom = document.getElementById("ruzhulv");
+        let titledom = document.getElementById("ruzhuvalue");
+
+        // namedom.innerText = name;
+        // numdom.innerText = label;
+        titledom.innerText = value;
+      };
+    </script>
+  </body>
+</html>

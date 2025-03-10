@@ -1,0 +1,838 @@
+// PC size
+$referanceWidth: 2880;
+$referanceHeight: 1080;
+$widthRatio: calc($referanceWidth / 100);
+$heightRatio: calc(100 / $referanceWidth);
+$heightRatioByHeight: calc($referanceHeight / 100);
+// font-weight
+$M: 500;
+$R: 400;
+ 
+// mixin
+@mixin BorderRadiusTL($r) {
+  border-top-left-radius: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin BorderRadiusTR($r) {
+  border-top-right-radius: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin BorderRadiusBL($r) {
+  border-bottom-left-radius: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin BorderRadiusBR($r) {
+  border-bottom-right-radius: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin BorderRadius($r) {
+  border-radius: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin BorderRadiusAll($a, $b, $c, $d) {
+  border-radius: calc(1vw * $a / $widthRatio) calc(1vw * $b / $widthRatio) calc(1vw * $c / $widthRatio) calc(1vw * $d / $widthRatio);
+}
+ 
+@mixin Width($w) {
+  width: calc(1vw * $w / $widthRatio) !important;
+}
+ 
+@mixin boxWidth($w) {
+  width: calc(1vw * #{$w} / #{$widthRatio});
+}
+ 
+@mixin maxWidth($w) {
+  max-width: calc(1vw * $w / $widthRatio);
+}
+ 
+@mixin minWidth($w) {
+  min-width: calc(1vw * $w / $widthRatio);
+}
+ 
+@mixin minWHeight($h) {
+  min-height: 1vw * $heightRatio * $h;
+}
+ 
+@mixin maxWHeight($h) {
+  max-height: 1vw * $heightRatio * $h;
+}
+ 
+@mixin wHeight($h) {
+  height: 1vw * $heightRatio * $h !important;
+}
+ 
+@mixin hHeight($h) {
+  height: calc(100vh * $h / $referanceHeight) !important;
+}
+ 
+@mixin boxhHeight($h) {
+  height: calc(100vh * #{$h} / #{$referanceHeight});
+}
+ 
+@mixin minHHeight($h) {
+  min-height: calc(100vh * $h / $referanceHeight);
+}
+ 
+@mixin maxHHeight($h) {
+  max-height: 100vh * $h / $referanceHeight;
+}
+ 
+// 通过calc计算
+@mixin Calc($property, $expression) {
+  #{$property}: -webkit-calc(#{$expression});
+  #{$property}: calc(#{$expression});
+}
+ 
+@mixin WidthCalc($s, $w) {
+  width: calc(#{$s} - 1vw * #{$w} / #{$widthRatio});
+}
+ 
+@mixin hHeightCalc($h) {
+  height: calc(100vh - 100vh * #{$h} / #{$referanceHeight});
+}
+ 
+@mixin TranslateY($t) {
+  transform: translateY(1vw * $heightRatio * $t);
+}
+ 
+@mixin hTranslateY($t) {
+  transform: translateY(1vh / $heightRatioByHeight * $t);
+}
+ 
+@mixin Top($t) {
+  top: 1vw * $heightRatio * $t;
+}
+ 
+@mixin hTop($t) {
+  top: 1vh / $heightRatioByHeight * $t;
+}
+ 
+@mixin Right($r) {
+  right: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin Bottom($b) {
+  bottom: 1vw * $heightRatio * $b;
+}
+ 
+@mixin hBottom($b) {
+  bottom: 1vh / $heightRatioByHeight * $b;
+}
+ 
+@mixin Left($l) {
+  left: calc(1vw * $l / $widthRatio);
+}
+ 
+@mixin Padding($t, $r, $b, $l) {
+  padding-top: 1vw * $heightRatio * $t;
+  padding-right: calc(1vw * $r / $widthRatio);
+  padding-bottom: 1vw * $heightRatio * $b;
+  padding-left: calc(1vw * $l / $widthRatio);
+  box-sizing: border-box;
+}
+ 
+@mixin PaddingTop($t) {
+  padding-top: 1vw * $heightRatio * $t;
+  box-sizing: border-box;
+}
+ 
+@mixin PaddingRight($r) {
+  padding-right: calc(1vw * $r / $widthRatio);
+  box-sizing: border-box;
+}
+ 
+@mixin PaddingBottom($b) {
+  padding-bottom: 1vw * $heightRatio * $b;
+  box-sizing: border-box;
+}
+ 
+@mixin PaddingLeft($l) {
+  padding-left: calc(1vw * $l / $widthRatio);
+  box-sizing: border-box;
+}
+ 
+@mixin hPaddingTop($t) {
+  padding-top: 1vh / $heightRatioByHeight * $t;
+  box-sizing: border-box;
+}
+ 
+@mixin hPaddingBottom($b) {
+  padding-bottom: 1vh / $heightRatioByHeight * $b;
+  box-sizing: border-box;
+}
+ 
+@mixin ClipRect($t, $r, $b, $l) {
+  clip: rect(
+    1vw * $heightRatio * $t,
+    calc(1vw * $r / $widthRatio),
+    1vw * $heightRatio * $b,
+    calc(1vw * $l / $widthRatio)
+  );
+}
+ 
+@mixin Margin($t, $r, $b, $l) {
+  margin-top: 1vw * $heightRatio * $t;
+  margin-right: calc(1vw * $r / $widthRatio);
+  margin-bottom: 1vw * $heightRatio * $b;
+  margin-left: calc(1vw * $l / $widthRatio);
+}
+ 
+@mixin MarginTop($t) {
+  margin-top: 1vw * $heightRatio * $t;
+}
+ 
+@mixin boxMarginTop($t) {
+  margin-top: calc(1vw * #{$heightRatio} * #{$t});
+}
+ 
+@mixin MarginRight($r) {
+  margin-right: calc(1vw * $r / $widthRatio);
+}
+ 
+@mixin MarginBottom($b) {
+  margin-bottom: 1vw * $heightRatio * $b;
+}
+ 
+@mixin MarginLeft($l) {
+  margin-left: calc(1vw * $l / $widthRatio);
+}
+ 
+@mixin hMarginTop($t) {
+  margin-top: calc(1vh / $heightRatioByHeight * $t);
+}
+ 
+@mixin hMarginBottom($b) {
+  margin-bottom: calc(1vh / $heightRatioByHeight * $b);
+}
+ 
+@mixin BorderRadius($s) {
+  border-radius: calc(1vw * $s / $widthRatio);
+}
+ 
+@mixin FontSize($s) {
+  font-size: 1vw * $heightRatio * $s !important;
+}
+ 
+@mixin hFontSize($s) {
+  font-size: 1vh / $heightRatioByHeight * $s;
+}
+ 
+@mixin FontSizeScale($s) {
+  $ratio: $s / 12;
+  font-size: 1vw * $heightRatio * $s;
+  transform-origin: 0% 50%;
+  transform: scale($ratio);
+}
+ 
+@mixin hFontSizeScale($s) {
+  $ratio: $s / 12;
+  font-size: 1vh / $heightRatioByHeight * $s;
+  transform-origin: 0% 50%;
+  transform: scale($ratio);
+}
+ 
+@mixin LineHeight($h) {
+  line-height: 1vw * $heightRatio * $h;
+}
+ 
+@mixin hLineHeight($h) {
+  line-height: calc(100vh * $h / $referanceHeight);
+}
+ 
+@mixin LetterSpacing($h) {
+  letter-spacing: calc(100vh * $h / $referanceHeight);
+}
+ 
+@mixin Border($size, $type, $color) {
+  border-top: 1vw * $heightRatio * $size $type $color;
+  border-right:calc( 1vw * $size / $widthRatio) $type $color;
+  border-bottom: 1vw * $heightRatio * $size $type $color;
+  border-left:calc( 1vw * $size / $widthRatio) $type $color;
+}
+ 
+@mixin BorderTop($size, $type, $color) {
+  border-top: 1vw * $heightRatio * $size $type $color;
+}
+ 
+@mixin hBorderTop($size, $type, $color) {
+  border-top: 100vh * $size / $referanceHeight $type $color;
+}
+ 
+@mixin BorderRight($size, $type, $color) {
+  border-right:calc( 1vw * $size / $widthRatio) $type $color !important;
+}
+ 
+@mixin BorderBottom($size, $type, $color) {
+  border-bottom: 1vw * $heightRatio * $size $type $color;
+}
+ 
+@mixin BorderLeft($size, $type, $color) {
+  border-left:calc( 1vw * $size / $widthRatio) $type $color;
+}
+ 
+@mixin BoxShadow($h, $v, $b, $l, $color) {
+  box-shadow: calc(1vw * $h / $widthRatio) calc(1vw * $v / $widthRatio) calc(1vw * $b / $widthRatio) calc(1vw * $l / $widthRatio) $color;
+}
+ 
+@mixin BoxShadowInset($h, $v, $b, $l, $color) {
+  box-shadow: calc(1vw * $h / $widthRatio) calc(1vw * $v / $widthRatio) calc(1vw * $b / $widthRatio) calc(1vw * $l / $widthRatio) inset $color;
+}
+ 
+@mixin backdropFilter($p) {
+  -webkit-backdrop-filter: blur(100vh * $p / $referanceHeight);
+  /* Use for Safari 9+, Edge 17+ (not a mistake) and iOS Safari 9.2+ */
+  backdrop-filter: blur(100vh * $p / $referanceHeight);
+  /* Supported in Chrome 76 */
+}
+ 
+// mobile size
+$referanceWidthMobile: 1280;
+$referanceHeightMobile: 800;
+$widthRatioMobile: calc($referanceWidthMobile / 100);
+$heightRatioMobile: calc(100 / $referanceWidthMobile);
+$heightRatioByHeightMobile: calc($referanceHeightMobile / 100);
+ 
+// mixin
+@mixin m-BorderRadiusTL($r) {
+  border-top-left-radius: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-BorderRadiusTR($r) {
+  border-top-right-radius: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-BorderRadiusBL($r) {
+  border-bottom-left-radius: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-BorderRadiusBR($r) {
+  border-bottom-right-radius: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-BorderRadius($r) {
+  border-radius: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-Width($w) {
+  width: calc(1vw * $w / $widthRatioMobile);
+}
+ 
+@mixin m-maxWidth($w) {
+  max-width: calc(1vw * $w / $widthRatioMobile);
+}
+ 
+@mixin m-minWidth($w) {
+  min-width: calc(1vw * $w / $widthRatioMobile);
+}
+ 
+@mixin m-minWHeight($h) {
+  min-height: 1vw * $heightRatioMobile * $h;
+}
+ 
+@mixin m-maxWHeight($h) {
+  max-height: 1vw * $heightRatioMobile * $h;
+}
+ 
+@mixin m-wHeight($h) {
+  height: 1vw * $heightRatioMobile * $h;
+}
+ 
+@mixin m-hHeight($h) {
+  height: calc(100vh * $h / $referanceHeightMobile);
+}
+ 
+@mixin m-minHHeight($h) {
+  min-height: calc(100vh * $h / $referanceHeightMobile);
+}
+ 
+@mixin m-maxHHeight($h) {
+  max-height: calc(100vh * $h / $referanceHeightMobile);
+}
+ 
+@mixin m-WidthPercentCalc($w) {
+  width: calc(100% - #{1vw * $w / $widthRatioMobile});
+}
+ 
+@mixin m-hHeightPercentCalc($h) {
+  height: calc(100% - #{100vh * $h / $referanceHeightMobile});
+}
+ 
+// 通过calc计算
+@mixin m-Calc($property, $expression) {
+  #{$property}: -webkit-calc(#{$expression});
+  #{$property}: calc(#{$expression});
+}
+ 
+@mixin m-WidthCalc($s, $w) {
+  width: calc($s - 1vw * $w / $widthRatioMobile);
+}
+ 
+@mixin m-hHeightCalc($h) {
+  height: calc(100vh - 100vh * $h / $referanceHeight);
+}
+ 
+@mixin m-TranslateY($t) {
+  transform: translateY(1vw * $heightRatioMobile * $t);
+}
+ 
+@mixin m-hTranslateY($t) {
+  transform: translateY(1vh / $heightRatioByHeightMobile * $t);
+}
+ 
+@mixin m-Top($t) {
+  top: 1vw * $heightRatioMobile * $t;
+}
+ 
+@mixin m-hTop($t) {
+  top: 1vh / $heightRatioByHeightMobile * $t;
+}
+ 
+@mixin m-Right($r) {
+  right: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-Bottom($b) {
+  bottom: 1vw * $heightRatioMobile * $b;
+}
+ 
+@mixin m-hBottom($b) {
+  bottom: 1vh / $heightRatioByHeightMobile * $b;
+}
+ 
+@mixin m-Left($l) {
+  left: 1vw * $l / $widthRatioMobile;
+}
+ 
+@mixin m-Padding($t, $r, $b, $l) {
+  padding-top: 1vw * $heightRatioMobile * $t;
+  padding-right: calc(1vw * $r / $widthRatioMobile);
+  padding-bottom: 1vw * $heightRatioMobile * $b;
+  padding-left: 1vw * $l / $widthRatioMobile;
+  box-sizing: border-box;
+}
+ 
+@mixin m-PaddingTop($t) {
+  padding-top: 1vw * $heightRatioMobile * $t;
+  box-sizing: border-box;
+}
+ 
+@mixin m-PaddingRight($r) {
+  padding-right: calc(1vw * $r / $widthRatioMobile);
+  box-sizing: border-box;
+}
+ 
+@mixin m-PaddingBottom($b) {
+  padding-bottom: 1vw * $heightRatioMobile * $b;
+  box-sizing: border-box;
+}
+ 
+@mixin m-PaddingLeft($l) {
+  padding-left: 1vw * $l / $widthRatioMobile;
+  box-sizing: border-box;
+}
+ 
+@mixin m-hPaddingTop($t) {
+  padding-top: 1vh / $heightRatioByHeightMobile * $t;
+  box-sizing: border-box;
+}
+ 
+@mixin m-hPaddingBottom($b) {
+  padding-bottom: 1vh / $heightRatioByHeightMobile * $b;
+  box-sizing: border-box;
+}
+ 
+@mixin m-Margin($t, $r, $b, $l) {
+  margin-top: 1vw * $heightRatioMobile * $t;
+  margin-right: calc(1vw * $r / $widthRatioMobile);
+  margin-bottom: 1vw * $heightRatioMobile * $b;
+  margin-left: 1vw * $l / $widthRatioMobile;
+}
+ 
+@mixin m-MarginTop($t) {
+  margin-top: 1vw * $heightRatioMobile * $t;
+}
+ 
+@mixin m-MarginRight($r) {
+  margin-right: calc(1vw * $r / $widthRatioMobile);
+}
+ 
+@mixin m-MarginBottom($b) {
+  margin-bottom: 1vw * $heightRatioMobile * $b;
+}
+ 
+@mixin m-MarginLeft($l) {
+  margin-left: 1vw * $l / $widthRatioMobile;
+}
+ 
+@mixin m-hMarginTop($t) {
+  margin-top: calc(1vh / $heightRatioByHeightMobile * $t);
+}
+ 
+@mixin m-hMarginBottom($b) {
+  margin-bottom: calc(1vh / $heightRatioByHeightMobile * $b);
+}
+ 
+@mixin m-BorderRadius($s) {
+  border-radius: calc(1vw * $s / $widthRatioMobile);
+}
+ 
+@mixin m-FontSize($s) {
+  font-size: calc(1vw * $heightRatioMobile * $s);
+}
+ 
+@mixin m-hFontSize($s) {
+  font-size: calc(1vh / $heightRatioByHeightMobile * $s);
+}
+ 
+@mixin m-FontSizeScale($s) {
+  $ratio: calc($s / 12);
+  font-size: calc(1vw * $heightRatioMobile * $s);
+  transform-origin: 0% 50%;
+  transform: scale($ratio);
+}
+ 
+@mixin m-hFontSizeScale($s) {
+  $ratio: $s / 12;
+  font-size: 1vh / $heightRatioByHeightMobile * $s;
+  transform-origin: 0% 50%;
+  transform: scale($ratio);
+}
+ 
+@mixin m-LineHeight($h) {
+  line-height: 1vw * $heightRatioMobile * $h;
+}
+ 
+@mixin m-hLineHeight($h) {
+  line-height: calc(100vh * $h / $referanceHeight);
+}
+ 
+@mixin m-Border($size, $type, $color) {
+  border-top: 1vw * $heightRatioMobile * $size $type $color;
+  border-right: 1vw * $size / $widthRatioMobile $type $color;
+  border-bottom: 1vw * $heightRatioMobile * $size $type $color;
+  border-left: 1vw * $size / $widthRatioMobile $type $color;
+}
+ 
+@mixin m-BorderTop($size, $type, $color) {
+  border-top: 1vw * $heightRatioMobile * $size $type $color;
+}
+ 
+@mixin m-hBorderTop($size, $type, $color) {
+  border-top: 1vh * $size / $heightRatioByHeightMobile $type $color;
+}
+ 
+@mixin m-BorderRight($size, $type, $color) {
+  border-right: 1vw * $size / $widthRatioMobile $type $color;
+}
+ 
+@mixin m-BorderBottom($size, $type, $color) {
+  border-bottom: 1vw * $heightRatioMobile * $size $type $color;
+}
+ 
+@mixin m-BorderLeft($size, $type, $color) {
+  border-left: 1vw * $size / $widthRatioMobile $type $color;
+}
+ 
+@mixin m-BoxShadow($h, $v, $b, $l, $color) {
+  box-shadow: calc(1vw * $h / $widthRatioMobile) 1vw * $v / $widthRatioMobile 1vw * $b /
+    $widthRatioMobile 1vw * $l / $widthRatioMobile $color;
+}
+ 
+@mixin m-BoxShadowInset($h, $v, $b, $l, $color) {
+  box-shadow: calc(1vw * $h / $widthRatioMobile) 1vw * $v / $widthRatioMobile 1vw * $b /
+    $widthRatioMobile 1vw * $l / $widthRatioMobile inset $color;
+}
+ 
+@mixin m-backdropFilter($p) {
+  -webkit-backdrop-filter: blur(100vh * $p / $referanceHeight);
+  /* Use for Safari 9+, Edge 17+ (not a mistake) and iOS Safari 9.2+ */
+  backdrop-filter: blur(100vh * $p / $referanceHeight);
+  /* Supported in Chrome 76 */
+}
+ 
+@mixin customLeft($l) {
+  left: calc(1vw * #{$l} / #{$widthRatio});
+}
+ 
+.relative {
+  position: relative;
+}
+ 
+.absolute {
+  position: absolute;
+}
+ 
+.w-f {
+  width: 100%;
+}
+ 
+.w-25p {
+  width: 25%;
+}
+ 
+.h-f {
+  height: 100%;
+}
+ 
+.wh-f {
+  width: 100%;
+  height: 100%;
+}
+ 
+.flex-sb-center {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ 
+.block {
+  display: block;
+}
+ 
+.inline {
+  display: inline;
+}
+ 
+.inlineblock {
+  display: inline-block;
+}
+ 
+.flex {
+  display: flex;
+}
+ 
+.flex1 {
+  flex: 1;
+}
+ 
+.flex2 {
+  flex: 2;
+}
+ 
+.flex3 {
+  flex: 3;
+}
+ 
+.flex4 {
+  flex: 4;
+}
+ 
+.flex5 {
+  flex: 5;
+}
+ 
+.flexcenter {
+  align-items: center;
+  justify-content: center;
+}
+ 
+.aligncenter {
+  align-items: center;
+}
+ 
+.spacebetween {
+  justify-content: space-between;
+}
+ 
+.flexwrap {
+  flex-wrap: wrap;
+}
+ 
+.font-bold {
+  font-weight: bold;
+}
+ 
+.lineheight-none {
+  line-height: 1;
+}
+ 
+.lineheight-s {
+  line-height: 1.3;
+}
+ 
+.lineheight-m {
+  line-height: 1.5;
+}
+ 
+.lineheight-l {
+  line-height: 1.7;
+}
+ 
+.textalign-left {
+  text-align: left;
+}
+ 
+.textalign-center {
+  text-align: center;
+}
+ 
+.textalign-right {
+  text-align: right;
+}
+ 
+.nowrap {
+  white-space: nowrap;
+}
+ 
+.noborder {
+  border: 0;
+}
+ 
+.radius-50p {
+  border-radius: 50%;
+}
+ 
+.borderbox {
+  box-sizing: border-box;
+}
+ 
+.selectnone {
+  user-select: none;
+}
+ 
+.pointer {
+  cursor: pointer;
+}
+ 
+.line-1 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+ 
+.line-2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+ 
+.flex-sb-center {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+ 
+.flex-jc-sb {
+  justify-content: space-between;
+}
+ 
+.flicker {
+  animation: Flicker 0.8s ease-in-out;
+  -webkit-animation: Flicker 0.8s ease-in-out;
+  animation-iteration-count: 2;
+  animation-direction: alternate;
+}
+ 
+//渐变色
+.gradual-blue {
+  background: linear-gradient(180deg, #ffffff 0%, #5dcff1 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+ 
+// animate
+@keyframes XfadeRight {
+  0% {
+    transform: translateX(100%);
+  }
+ 
+  100% {
+    transform: translateX(0);
+  }
+}
+ 
+@keyframes XfadeLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+ 
+  100% {
+    transform: translateX(0);
+  }
+}
+ 
+@keyframes YfadeRight {
+  0% {
+    transform: translateY(-100%);
+  }
+ 
+  100% {
+    transform: translateY(0);
+  }
+}
+ 
+@keyframes YfadeLeft {
+  0% {
+    transform: translateY(0);
+  }
+ 
+  100% {
+    transform: translateY(100%);
+  }
+}
+ 
+@keyframes Flicker {
+  0% {
+    opacity: 0;
+  }
+ 
+  100% {
+    opacity: 1;
+  }
+}
+ 
+@keyframes YfadeTop {
+  0% {
+    transform: translateY(-100%);
+  }
+ 
+  100% {
+    transform: translateY(0);
+  }
+}
+ 
+.animate-left {
+  animation: XfadeLeft 0.8s ease-in-out forwards;
+}
+ 
+.animate-right {
+  animation: XfadeRight 0.8s ease-in-out forwards;
+}
+ 
+.animate-opacity {
+  animation: Flicker 1s ease-in-out forwards;
+}
+ 
+.animate-top {
+  animation: YfadeTop 0.8s ease-in-out forwards;
+}
+ 
+// 去除播放器logo
+.iconqingxiLOGO::before {
+  content: "";
+  display: none;
+}
+ 
+@mixin boxLeft($l) {
+    left: calc(1vw * #{$l} / #{$widthRatio});
+  }
+  
+ 
+  @mixin boxTop($t) {
+    top: calc(1vw * #{$heightRatio} * #{$t});
+  }
+ 
+  @mixin boxWidth($w) {
+    width: calc(1vw * #{$w} / #{$widthRatio});
+  }
+  
+ 
+  @mixin boxwHeight($h) {
+    height: calc(100vw * #{$h} / #{$referanceWidth});
+  }
+  
+ 
+  @mixin CalcLeft($l) {
+    left: calc(1vw * #{$l} / #{$widthRatio});
+  }

@@ -1,0 +1,16 @@
+<svg width="506" height="1080" viewBox="0 0 506 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="&#229;&#183;&#166;&#228;&#190;&#167;&#233;&#157;&#162;&#230;&#157;&#191;-&#233;&#187;&#145;&#233;&#128;&#143;">
+        <rect id="&#229;&#143;&#179;&#228;&#190;&#167;&#233;&#157;&#162;&#230;&#157;&#191;-&#233;&#187;&#145;&#233;&#128;&#143;"
+              opacity="0.973" width="506" height="1080" transform="matrix(-1 0 0 1 506 0)"
+              fill="url(#paint0_linear_196_5330)"/>
+    </g>
+    <defs>
+        <linearGradient id="paint0_linear_196_5330" x1="505.702" y1="27.5797" x2="2.1156" y2="25.5704"
+                        gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0A131C" stop-opacity="0.8"/>
+            <stop offset="0.409839" stop-color="#0F1C28" stop-opacity="0.6"/>
+            <stop offset="0.679029" stop-color="#101C28" stop-opacity="0.4"/>
+            <stop offset="1" stop-color="#101D29" stop-opacity="0.01"/>
+        </linearGradient>
+    </defs>
+</svg>

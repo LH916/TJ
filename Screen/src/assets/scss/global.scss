@@ -1,0 +1,66 @@
+html,
+body {
+  width: 100%;
+  height: 100%;
+  /* overflow: hidden; */
+}
+
+#app {
+  width: 100%;
+  height: 100%;
+  // @include Width(1920);
+  // @include wHeight(1080);
+  /*//   margin: 0 auto; */
+  font-family: Oppo;
+  user-select: none;
+  color: #fff;
+  background: rgb(0, 0, 0);
+  overflow: hidden;
+  position: relative;
+}
+
+@font-face {
+  font-family: Tencent;
+  src: url("../font/TencentSans-W7.otf");
+}
+
+@font-face {
+  font-family: Oppo;
+  src: url("../font/OPPO\ Sans-Regular.ttf");
+}
+
+@font-face {
+  font-family: HuXiaoBo-NanShen;
+  src: url("../font/nanshen.otf");
+}
+
+@font-face {
+  font-family: SJyunhei;
+  src: url("../font/三极韵黑简体.ttf");
+}
+
+// 不可商用
+@font-face {
+  font-family: Ding;
+  src: url("../font/DS-DIGI.TTF");
+}
+
+
+::-webkit-scrollbar {
+  @include Width(2);
+  @include hHeight(2);
+}
+
+/* 滚动条的滑块 */
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #ffffff 0%, #5dcff1 100%);
+  border-radius: 3px;
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}

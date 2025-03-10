@@ -1,0 +1,104 @@
+<!--
+ * @Author: your name
+ * @Date: 2022-03-18 02:32:39
+ * @LastEditTime: 2022-03-31 17:21:25
+ * @LastEditors: Please set LastEditors
+ * @Description: 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @FilePath: \20220312_CGSY_FREEDO_DTSWEEKLY_ZHJT\public\customTag\ctag.html
+-->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body,
+      html {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        font-size: 100px;
+      }
+
+      .box {
+        width: 100%;
+        height: 100%;
+        /* background: url(./tag.svg) no-repeat;
+      background-size: 100% 100%;
+      padding: 25px 0 0 38px; */
+        /* background: rgb(179, 171, 171); */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: url("./images/信息框背景@2x.png") no-repeat center/cover;
+        background-size: 100% 100%;
+
+        padding: 0 0.1rem 0 0.1rem;
+        overflow: hidden;
+      }
+
+      p {
+        width: 100%;
+        font-size: 16px;
+        white-space: nowrap;
+        color: rgba(255, 255, 255, 0.959);
+        /* text-align: center; */
+        text-align: left;
+        /* text-indent: 2em; */
+      }
+      span:nth-of-type(1) {
+        display: inline-block;
+        margin-left: 30px;
+      }
+      span:nth-of-type(2) {
+        display: inline-block;
+        margin-left: 3px;
+      }
+      span:nth-of-type(3) {
+        display: inline-block;
+        /* text-align: right; */
+        margin-left: 25px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="box">
+      <p>
+        <span>计量柜</span>
+        <span class="jlg_name">XXXX</span>
+        <span class="status">正常</span>
+      </p>
+    </div>
+    <script>
+      function GetQueryString(variable) {
+        var query = window.location.search.substring(1);
+        var vars = query.split("&");
+        for (var i = 0; i < vars.length; i++) {
+          var pair = vars[i].split("=");
+          if (pair[0] == variable) {
+            return decodeURI(pair[1]);
+          }
+        }
+        return null;
+      }
+
+      window.onload = function () {
+        let status = GetQueryString("status");
+        let name = GetQueryString("name");
+        document.querySelector(".jlg_name").innerText = name;
+        document.querySelector(".status").innerText = status;
+        document.querySelector(".status").style.color =
+          status === "正常" ? "#fff" : "red";
+      };
+    </script>
+  </body>
+</html>

@@ -1,0 +1,5045 @@
+{
+  "type": "FeatureCollection",
+  "name": "科研教育",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::4543" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481224",
+        "Name": "弥勒县西二镇中心学校",
+        "pyname": "mlxxezzxxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.17977",
+        "display_y": "24.41975",
+        "side": "L",
+        "address": "西二镇西龙村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [619465.948599275317974, 2702604.84828829811886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481299",
+        "Name": "大寨小学",
+        "pyname": "dzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.11497",
+        "display_y": "24.23081",
+        "side": "R",
+        "address": "大寨村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [613055.58600663812831, 2681603.221183282788843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481327",
+        "Name": "弥勒县行政学校",
+        "pyname": "mlxxzxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43458",
+        "display_y": "24.40086",
+        "side": "L",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645309.377871660050005, 2700745.426758104469627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481341",
+        "Name": "三塘乡大俱久小学",
+        "pyname": "stxdjjxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.90056",
+        "display_y": "24.4195",
+        "side": "R",
+        "address": "三塘公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [692583.357945458963513, 2703417.855567197315395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481352",
+        "Name": "弥勒县江边乡中心学校",
+        "pyname": "mlxjbxzxxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.60616",
+        "display_y": "24.02196",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [663231.462439543567598, 2658980.74415249703452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481382",
+        "Name": "华宁县第十中学",
+        "pyname": "hnxdszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.02238",
+        "display_y": "24.06004",
+        "side": "R",
+        "address": "华溪镇卫生院旁"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [603808.50404225056991, 2662620.414825366809964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481383",
+        "Name": "华宁县华溪镇中心校",
+        "pyname": "hnxhxzzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.01884",
+        "display_y": "24.05814",
+        "side": "L",
+        "address": "华溪镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [603451.322519457433373, 2662408.386972574517131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481409",
+        "Name": "九甸小学",
+        "pyname": "jdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10793",
+        "display_y": "24.19674",
+        "side": "L",
+        "address": "九甸村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612370.567787004983984, 2677821.594234841410071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481438",
+        "Name": "云南华宁二中",
+        "pyname": "ynhnez",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.1076",
+        "display_y": "24.22183",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612315.089237175532617, 2680601.890105409547687]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481486",
+        "Name": "黑果坝小学",
+        "pyname": "hgbxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.32237",
+        "display_y": "23.92919",
+        "side": "L",
+        "address": "G326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [634436.064863541396335, 2648370.533149924129248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481512",
+        "Name": "巡检司中学",
+        "pyname": "xjszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.18705",
+        "display_y": "23.961",
+        "side": "R",
+        "address": "巡检司镇巡检司村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [620637.954977315734141, 2651774.803025176282972]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481513",
+        "Name": "弥勒县西三镇中心小学",
+        "pyname": "mlxxszzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41714",
+        "display_y": "24.49506",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643432.490349938627332, 2711164.07427374413237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481514",
+        "Name": "弥勒县西三镇中心幼儿园",
+        "pyname": "mlxxszzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41587",
+        "display_y": "24.49346",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643305.512635843129829, 2710985.337949812877923]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481621",
+        "Name": "巡检司小学",
+        "pyname": "xjsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.18547",
+        "display_y": "23.96088",
+        "side": "L",
+        "address": "巡检司镇巡检司村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [620477.02757838240359, 2651759.832183884922415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481622",
+        "Name": "松鹤完小",
+        "pyname": "shwx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.72756",
+        "display_y": "24.69002",
+        "side": "L",
+        "address": "三午公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674640.564713517786004, 2733145.385698078200221]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481623",
+        "Name": "三河中学",
+        "pyname": "shzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.73285",
+        "display_y": "24.68934",
+        "side": "R",
+        "address": "三午公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675176.517908190377057, 2733076.365180098917335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481625",
+        "Name": "午街铺乡中心小学",
+        "pyname": "wjpxzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.58972",
+        "display_y": "24.51796",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [660931.03529931535013, 2713931.895217718090862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481652",
+        "Name": "澄江七中",
+        "pyname": "cjqz",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.97851",
+        "display_y": "24.69195",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [598868.67039556754753, 2732619.62998685752973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481697",
+        "Name": "东山镇大栗村委会小学",
+        "pyname": "dszdlcwhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.59169",
+        "display_y": "24.2336",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [661492.832689834525809, 2682421.245779453776777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481706",
+        "Name": "甫甸小学",
+        "pyname": "fdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.9885",
+        "display_y": "24.06166",
+        "side": "R",
+        "address": "甫甸村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [600374.649453667341731, 2662786.560061201453209]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481791",
+        "Name": "弥勒县弥阳一小",
+        "pyname": "mlxmyyx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43887",
+        "display_y": "24.40725",
+        "side": "L",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645737.823856397997588, 2701458.85911077959463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481797",
+        "Name": "泸源中学",
+        "pyname": "lyzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7606",
+        "display_y": "24.555",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678175.858789073769003, 2718226.379537018481642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481802",
+        "Name": "华宁县盘溪镇中心小学",
+        "pyname": "hnxpxzzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10182",
+        "display_y": "24.22392",
+        "side": "L",
+        "address": "盘溪镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611726.20575832342729, 2680828.551632089074701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481872",
+        "Name": "石林县大可中心小学",
+        "pyname": "slxdkzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23954",
+        "display_y": "24.60618",
+        "side": "R",
+        "address": "鹿平公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [625346.774960122886114, 2723321.947650100104511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481873",
+        "Name": "结胜村委会幼儿园",
+        "pyname": "jscwhyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23312",
+        "display_y": "24.57494",
+        "side": "R",
+        "address": "黑古塘村109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [624728.096696252468973, 2719855.012224848382175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481874",
+        "Name": "南大村小学",
+        "pyname": "ndcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.22765",
+        "display_y": "24.52205",
+        "side": "R",
+        "address": "鹿平公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [624226.265443837153725, 2713989.833833223208785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481944",
+        "Name": "永宁乡中心小学",
+        "pyname": "ynxzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.69611",
+        "display_y": "24.36808",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [671901.737587795476429, 2697435.965226158034056]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481945",
+        "Name": "清红小学",
+        "pyname": "qhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45486",
+        "display_y": "24.3417",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647438.699930763803422, 2694214.954866349697113]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481946",
+        "Name": "山林小学",
+        "pyname": "slxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.6781",
+        "display_y": "24.5117",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [669884.747682349407114, 2713333.095101784914732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.481947",
+        "Name": "凤舞小学",
+        "pyname": "fwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.65053",
+        "display_y": "24.54606",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [667050.539254406932741, 2717112.502023514360189]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482001",
+        "Name": "蓑衣山村委会烟农学校",
+        "pyname": "syscwhynxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.35003",
+        "display_y": "24.64405",
+        "side": "L",
+        "address": "板塘公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [636476.108327364549041, 2727608.969187334179878]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482202",
+        "Name": "石林彝族自治县板桥中学",
+        "pyname": "slyzzzxbqzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.25092",
+        "display_y": "24.67429",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [626430.576412404538132, 2730878.857877005822957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482205",
+        "Name": "红塔海迤希望小学",
+        "pyname": "hthyxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.02468",
+        "display_y": "24.49029",
+        "side": "L",
+        "address": "海迤村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [603690.052920106099918, 2710297.540694720111787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482327",
+        "Name": "花园小学",
+        "pyname": "hyxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41634",
+        "display_y": "24.13146",
+        "side": "R",
+        "address": "竹园镇花园村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643761.916708347620443, 2670868.902714756783098]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482328",
+        "Name": "明德小学",
+        "pyname": "mdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42614",
+        "display_y": "24.23132",
+        "side": "R",
+        "address": "S304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644645.597523650270887, 2681947.211953415069729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482347",
+        "Name": "弥勒县新哨镇中心小学",
+        "pyname": "mlxxszzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45337",
+        "display_y": "24.24606",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647398.064480044995435, 2683613.906742658000439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482351",
+        "Name": "胜利小学",
+        "pyname": "slxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7589",
+        "display_y": "24.53156",
+        "side": "R",
+        "address": "西正街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678036.400455078925006, 2715626.310920239891857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482418",
+        "Name": "竹园镇第二中学",
+        "pyname": "zyzdezx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40093",
+        "display_y": "24.06157",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [642273.204562161583453, 2663106.987097161822021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482448",
+        "Name": "大孔照堡小学",
+        "pyname": "dkzbxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.86578",
+        "display_y": "24.40136",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [689079.409135059337132, 2701356.368112904485315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482449",
+        "Name": "兵装隆德小学",
+        "pyname": "bzldxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.82469",
+        "display_y": "24.39772",
+        "side": "L",
+        "address": "XG54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [684908.414127071504481, 2700889.413807116448879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482450",
+        "Name": "连城小学",
+        "pyname": "lcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.78943",
+        "display_y": "24.37187",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [681361.964189164107665, 2697971.441420102957636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482451",
+        "Name": "阿勒小学",
+        "pyname": "alxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75763",
+        "display_y": "24.46429",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678002.498019259073772, 2708169.893893527798355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482462",
+        "Name": "泸西八中",
+        "pyname": "lxbz",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76026",
+        "display_y": "24.53301",
+        "side": "L",
+        "address": "营埂路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678172.171364733483642, 2715788.760808305814862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482498",
+        "Name": "舍得小学",
+        "pyname": "sdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.8684",
+        "display_y": "24.23796",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [689589.186352386837825, 2683249.622050924226642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482547",
+        "Name": "弥勒县委员会党校",
+        "pyname": "mlxwyhdx",
+        "kind": "A700",
+        "zipcode": null,
+        "telephone": "0873-6122225",
+        "display_x": "103.43436",
+        "display_y": "24.40088",
+        "side": "L",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645287.003251453512348, 2700747.375018008984625]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482591",
+        "Name": "师宗县彩云镇中心学校",
+        "pyname": "szxcyzzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.91864",
+        "display_y": "24.69958",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [693983.92601595108863, 2734480.229145897552371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482633",
+        "Name": "向阳中学",
+        "pyname": "xyzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.89665",
+        "display_y": "24.4914",
+        "side": "L",
+        "address": "向阳乡旧寨村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [692076.86392906983383, 2711380.335298602469265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482764",
+        "Name": "弥勒县弥阳镇菜花小学",
+        "pyname": "mlxmyzchxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44701",
+        "display_y": "24.38583",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646589.674579100566916, 2699095.442549356259406]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482821",
+        "Name": "弥勒县第五中学",
+        "pyname": "mlxdwzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44229",
+        "display_y": "24.40211",
+        "side": "L",
+        "address": "建设街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646091.071699443506077, 2700893.381204274483025]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482822",
+        "Name": "弥勒县职工教育培训中心",
+        "pyname": "mlxzgjypxzx",
+        "kind": "7480",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43786",
+        "display_y": "24.40737",
+        "side": "L",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645635.117900781566277, 2701470.927917280234396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482896",
+        "Name": "团山小学",
+        "pyname": "tsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.13749",
+        "display_y": "24.62902",
+        "side": "L",
+        "address": "XA32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [614980.721243602922186, 2725746.628516786266118]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482915",
+        "Name": "小金马小学",
+        "pyname": "xjmxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.73379",
+        "display_y": "24.57581",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675430.971678011817858, 2720498.388470289763063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482917",
+        "Name": "泸西县机动车驾驶技术培训站",
+        "pyname": "lxxjdcjsjspxz",
+        "kind": "A706",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75373",
+        "display_y": "24.53405",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [677508.878619421739131, 2715895.462502175010741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482937",
+        "Name": "小精灵幼儿园",
+        "pyname": "xjlyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.58756",
+        "display_y": "24.51755",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [660712.558926707366481, 2713883.807771457359195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482956",
+        "Name": "弥阳中学",
+        "pyname": "myzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43075",
+        "display_y": "24.40507",
+        "side": "L",
+        "address": "红烟路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644915.750449965242296, 2701207.516614626161754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.482957",
+        "Name": "弥阳镇中心小学",
+        "pyname": "myzzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43407",
+        "display_y": "24.40045",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645258.058229445363395, 2700699.380458737723529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483060",
+        "Name": "弥勒县育才小学",
+        "pyname": "mlxycxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43473",
+        "display_y": "24.4029",
+        "side": "L",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645322.325942851719446, 2700971.72878478653729]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483078",
+        "Name": "弥勒县蓝天艺术幼儿园",
+        "pyname": "mlxltysyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43614",
+        "display_y": "24.41112",
+        "side": "L",
+        "address": "吉山北路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645456.121978605049662, 2701884.405303740408272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483079",
+        "Name": "弥勒县第四中学",
+        "pyname": "mlxdszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43706",
+        "display_y": "24.4101",
+        "side": "R",
+        "address": "白雀路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645550.727484579430893, 2701772.486854285467416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483126",
+        "Name": "新哨幼儿园",
+        "pyname": "xsyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45284",
+        "display_y": "24.25064",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647338.865995757398196, 2684120.864392629824579]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483127",
+        "Name": "新哨中心幼儿园",
+        "pyname": "xszxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45518",
+        "display_y": "24.24704",
+        "side": "R",
+        "address": "新哨镇新哨村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647581.119814432342537, 2683724.879644451197237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483197",
+        "Name": "大可乡中龙小学",
+        "pyname": "dkxzlxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23976",
+        "display_y": "24.63296",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [625342.141660021385178, 2726288.919821962248534]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483198",
+        "Name": "石林彝族自治县大可乡结胜小学",
+        "pyname": "slyzzzxdkxjsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23312",
+        "display_y": "24.57494",
+        "side": "R",
+        "address": "黑古塘村109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [624728.096696252468973, 2719855.012224848382175]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483247",
+        "Name": "文武中等职业技术学校",
+        "pyname": "wwzdzyjsxx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41184",
+        "display_y": "24.14918",
+        "side": "R",
+        "address": "G326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643284.849425791297108, 2672828.208505269140005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483304",
+        "Name": "弥勒县西一乡中心小学",
+        "pyname": "mlxxyxzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.27912",
+        "display_y": "24.464",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [629498.66768572141882, 2707604.712559435050935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483409",
+        "Name": "华宁县盘溪镇中心幼儿园",
+        "pyname": "hnxpxzzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10302",
+        "display_y": "24.22337",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611848.57611664198339, 2680768.631543997209519]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483428",
+        "Name": "岔科中学",
+        "pyname": "ckzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.04281",
+        "display_y": "23.86651",
+        "side": "R",
+        "address": "岔科镇岔科村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [606038.313297901302576, 2641183.700345146935433]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483429",
+        "Name": "泸西九中",
+        "pyname": "lxjz",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76735",
+        "display_y": "24.53394",
+        "side": "R",
+        "address": "人民路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678889.837628575507551, 2715901.514300941955298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483453",
+        "Name": "龙溪春蕾小学",
+        "pyname": "lxclxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.2178",
+        "display_y": "24.66505",
+        "side": "R",
+        "address": "叠水公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [623086.93746916402597, 2729822.751318249851465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483499",
+        "Name": "弥勒县西三中学",
+        "pyname": "mlxxszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41745",
+        "display_y": "24.49672",
+        "side": "L",
+        "address": "西三镇马龙村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643462.118774564587511, 2711348.440026973839849]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483502",
+        "Name": "东山镇中心学校",
+        "pyname": "dszzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.64319",
+        "display_y": "24.25801",
+        "side": "L",
+        "address": "东山镇新寨村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [666687.218537360080518, 2685183.240566479042172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483552",
+        "Name": "新寨小学",
+        "pyname": "xzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76592",
+        "display_y": "24.48604",
+        "side": "L",
+        "address": "XG54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678812.531789899687283, 2710591.131787691265345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483553",
+        "Name": "黄草州小学",
+        "pyname": "hczxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76535",
+        "display_y": "24.49646",
+        "side": "R",
+        "address": "XG54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678740.207799382507801, 2711745.35471870098263]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483606",
+        "Name": "小龙潭矿务局希望小学",
+        "pyname": "xltkwjxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10657",
+        "display_y": "23.84454",
+        "side": "R",
+        "address": "开培县道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612539.954079754184932, 2638790.308187295682728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483607",
+        "Name": "建水县岔科太保希望小学",
+        "pyname": "jsxcktbxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.04853",
+        "display_y": "23.86754",
+        "side": "L",
+        "address": "开培县道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [606618.068186270189472, 2641300.458063997328281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483647",
+        "Name": "弥勒县西三镇戈西小学",
+        "pyname": "mlxxszgxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44259",
+        "display_y": "24.53505",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645967.609252836322412, 2715624.531663410831243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483686",
+        "Name": "巡检司镇龙树中心小学",
+        "pyname": "xjszlszxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23143",
+        "display_y": "23.95999",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [625160.250170436454937, 2651708.253281149547547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483687",
+        "Name": "乌稠小学",
+        "pyname": "wcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.28786",
+        "display_y": "24.01829",
+        "side": "R",
+        "address": "巡检司镇乌稠村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [630840.157918275916018, 2658218.762937747873366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483731",
+        "Name": "舞街铺中学",
+        "pyname": "wjpzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.59205",
+        "display_y": "24.51582",
+        "side": "L",
+        "address": "舞街铺村老街122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [661169.827635327819735, 2713697.432097197510302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483762",
+        "Name": "弥阳镇瓦草小学",
+        "pyname": "myzwcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.47406",
+        "display_y": "24.45748",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [649255.074691419256851, 2707070.901099260896444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483825",
+        "Name": "明德小学",
+        "pyname": "mdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.68695",
+        "display_y": "24.37632",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [670963.031586433993652, 2698339.672356860246509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483826",
+        "Name": "永宁蓝天幼儿园",
+        "pyname": "ynltyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.68857",
+        "display_y": "24.37458",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [671129.412359072477557, 2698148.500804480165243]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483842",
+        "Name": "高宗堡小学",
+        "pyname": "gzbxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45716",
+        "display_y": "24.36261",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647648.295387231046334, 2696535.277647109236568]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483906",
+        "Name": "巨木完小",
+        "pyname": "jmwx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.83996",
+        "display_y": "24.66774",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [686060.974512434215285, 2730835.863960022106767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483924",
+        "Name": "新车小学",
+        "pyname": "xcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.37942",
+        "display_y": "23.98902",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [640166.814267105422914, 2655046.30839019222185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483925",
+        "Name": "一碗水小学",
+        "pyname": "ywsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.38334",
+        "display_y": "24.02806",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [640522.516418123384938, 2659376.487892547622323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483982",
+        "Name": "丘北县新店乡小江口小学",
+        "pyname": "qbxxdxxjkxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.62681",
+        "display_y": "24.00813",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [665348.200599787058309, 2657470.298588410951197]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.483987",
+        "Name": "丘北县舍得乡舍得村五家寨小学",
+        "pyname": "qbxsdxsdcwjzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.88371",
+        "display_y": "24.22823",
+        "side": "L",
+        "address": "XH81"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [691160.822453468805179, 2682193.85581765929237]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484030",
+        "Name": "贝贝红幼儿园",
+        "pyname": "bbhyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.65545",
+        "display_y": "24.62222",
+        "side": "L",
+        "address": "豆泸线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [667446.437946245539933, 2725556.461356732994318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484061",
+        "Name": "小龙潭办事处成人文化技校",
+        "pyname": "xltbsccrwhjx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.15955",
+        "display_y": "23.78122",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [617998.392366068204865, 2631823.949943733401597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484063",
+        "Name": "启蒙幼儿园",
+        "pyname": "qmyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.53673",
+        "display_y": "24.45037",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [655636.119771673809737, 2706372.208542248234153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484064",
+        "Name": "弥勒高级中学",
+        "pyname": "mlgjzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.38904",
+        "display_y": "24.39298",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [640698.939469986828044, 2699823.791028728242964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484147",
+        "Name": "弥勒县东山中学",
+        "pyname": "mlxdszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.64094",
+        "display_y": "24.26461",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [666450.457082379143685, 2685912.355702885892242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484162",
+        "Name": "本善小学",
+        "pyname": "bsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10853",
+        "display_y": "24.01205",
+        "side": "L",
+        "address": "大杨县道"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612593.53988731931895, 2657354.671901987399906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484281",
+        "Name": "高梁小学",
+        "pyname": "glxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41997",
+        "display_y": "24.10235",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644163.840359778143466, 2667646.704101952724159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484282",
+        "Name": "弥勒二中",
+        "pyname": "mlez",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41793",
+        "display_y": "24.10568",
+        "side": "R",
+        "address": "竹园镇竹园村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643952.638249226845801, 2668013.523798388428986]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484340",
+        "Name": "师宗县彩云中学",
+        "pyname": "szxcyzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.91689",
+        "display_y": "24.70373",
+        "side": "L",
+        "address": "XD62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [693800.299888969864696, 2734937.544151282869279]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484360",
+        "Name": "温泉小学",
+        "pyname": "wqxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40218",
+        "display_y": "24.40517",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [642017.078320537693799, 2701187.310028742998838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484396",
+        "Name": "江头小学",
+        "pyname": "jtxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7905",
+        "display_y": "24.52922",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [681244.672335283947177, 2715410.840061530005187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484410",
+        "Name": "新村小学",
+        "pyname": "xcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10997",
+        "display_y": "24.24655",
+        "side": "R",
+        "address": "新村村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612533.740898562478833, 2683343.116310986224562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484453",
+        "Name": "聪明屋幼儿园",
+        "pyname": "cmwyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.09517",
+        "display_y": "24.18713",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611083.342340630944818, 2676746.441909687127918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484705",
+        "Name": "赤甸先锋小学",
+        "pyname": "cdxfxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.52434",
+        "display_y": "24.46362",
+        "side": "R",
+        "address": "S203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [654360.288361287442967, 2707822.828166014514863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484872",
+        "Name": "九村镇亲亲宝贝幼儿园",
+        "pyname": "jczqqbbyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.98198",
+        "display_y": "24.6898",
+        "side": "L",
+        "address": "澄阳路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [599220.22726323583629, 2732382.848680381663144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484885",
+        "Name": "西山民族中学",
+        "pyname": "xsmzzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41274",
+        "display_y": "24.41608",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643075.87295556627214, 2702407.53056892985478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.484909",
+        "Name": "弥勒县西三乡花口小学",
+        "pyname": "mlxxsxhkxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42835",
+        "display_y": "24.48593",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644579.458872070303187, 2710164.764123004395515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485044",
+        "Name": "江边小学",
+        "pyname": "jbxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.60895",
+        "display_y": "24.01853",
+        "side": "R",
+        "address": "江边乡江边村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [663519.747779528144747, 2658603.953649135306478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485108",
+        "Name": "埃来小学",
+        "pyname": "alxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.71846",
+        "display_y": "24.41671",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674098.932701773708686, 2702849.426195395179093]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485109",
+        "Name": "吉双完小",
+        "pyname": "jswx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.77051",
+        "display_y": "24.4743",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [679294.890352070331573, 2709296.395084755960852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485110",
+        "Name": "帕布革希望小学",
+        "pyname": "pbgxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41226",
+        "display_y": "24.24212",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643223.075832469621673, 2683128.616031884215772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485159",
+        "Name": "弥勒县朋普镇中心学校",
+        "pyname": "mlxppzzxxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.35386",
+        "display_y": "23.96464",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [637596.563007551943883, 2652323.048496519215405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485257",
+        "Name": "欣蕊幼儿园",
+        "pyname": "xryey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10362",
+        "display_y": "24.22285",
+        "side": "R",
+        "address": "青年路5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611909.975899455486797, 2680711.526981553994119]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485268",
+        "Name": "红河精武职业学校",
+        "pyname": "hhjwzyxx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43378",
+        "display_y": "24.40058",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645228.453990485402755, 2700713.43869697721675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485275",
+        "Name": "树勋小学",
+        "pyname": "sxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.73863",
+        "display_y": "24.68225",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675771.034401176730171, 2732297.787452706135809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485276",
+        "Name": "三河中心小学",
+        "pyname": "shzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7368",
+        "display_y": "24.6767",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675593.760300951893441, 2731680.648042640183121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485277",
+        "Name": "泸西县金马星星幼儿园",
+        "pyname": "lxxjmxxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74889",
+        "display_y": "24.63532",
+        "side": "L",
+        "address": "金马镇新区镇政府北面"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676875.802634101826698, 2727110.939482321031392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485376",
+        "Name": "兵装绿峨希望小学",
+        "pyname": "bzlexwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.59255",
+        "display_y": "24.55794",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [661166.643985766451806, 2718365.351895025931299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485476",
+        "Name": "弥勒县快乐幼儿园",
+        "pyname": "mlxklyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43922",
+        "display_y": "24.40697",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645773.698447697795928, 2701428.252665746025741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485484",
+        "Name": "开远市第三中学",
+        "pyname": "kysdszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.15813",
+        "display_y": "23.78119",
+        "side": "L",
+        "address": "小龙潭镇毛家寨村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [617853.488255837582983, 2631819.16503081517294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485578",
+        "Name": "凤凰小学",
+        "pyname": "fhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.30207",
+        "display_y": "24.52431",
+        "side": "R",
+        "address": "西三镇凤凰村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [631757.773417481454089, 2714305.313978970050812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485632",
+        "Name": "东大门清真寺经文学校",
+        "pyname": "ddmqzsjwxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10227",
+        "display_y": "24.225",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611770.957426878041588, 2680948.608698520343751]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485705",
+        "Name": "金马镇爵册村老年人学校",
+        "pyname": "jmzjcclnrxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74485",
+        "display_y": "24.62833",
+        "side": "R",
+        "address": "豆泸线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676476.504590651486069, 2726331.130745166912675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485706",
+        "Name": "金马镇中心小学",
+        "pyname": "jmzzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74002",
+        "display_y": "24.62855",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [675987.255276259733364, 2726349.46467405743897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485708",
+        "Name": "弥勒县教师进修学校",
+        "pyname": "mlxjsjxxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43809",
+        "display_y": "24.41037",
+        "side": "R",
+        "address": "白雀路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645655.010344312759116, 2701803.64779963856563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485808",
+        "Name": "土桥小学",
+        "pyname": "tqxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40087",
+        "display_y": "24.06141",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [642267.28391836816445, 2663089.19472730346024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485851",
+        "Name": "逸圃镇职业初级中学",
+        "pyname": "ypzzycjzx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.69458",
+        "display_y": "24.45793",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [671624.776182366302237, 2707391.608284840825945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485852",
+        "Name": "逸圃镇初级中学",
+        "pyname": "ypzcjzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.69391",
+        "display_y": "24.4585",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [671556.203740985598415, 2707454.07934389822185]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485890",
+        "Name": "云南省开远市龙煤小学",
+        "pyname": "ynskyslmxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.21361",
+        "display_y": "23.81868",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [623479.190958086517639, 2636030.243270720355213]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485976",
+        "Name": "华宁县第八中学",
+        "pyname": "hnxdbzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.1131",
+        "display_y": "24.22919",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612867.132067383849062, 2681422.116712630726397]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485977",
+        "Name": "月红寨小学",
+        "pyname": "yhzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.09319",
+        "display_y": "24.23211",
+        "side": "R",
+        "address": "月红寨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [610843.095363667118363, 2681729.392702907323837]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.485978",
+        "Name": "中国共产党华宁县盘溪镇党校",
+        "pyname": "zggcdhnxpxzdx",
+        "kind": "A700",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10279",
+        "display_y": "24.22191",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611826.483277027145959, 2680606.628036865498871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486038",
+        "Name": "地质幼儿园",
+        "pyname": "dzyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.77007",
+        "display_y": "24.53054",
+        "side": "L",
+        "address": "钟山路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [679170.355455321259797, 2715528.316192817874253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486039",
+        "Name": "泸西二中",
+        "pyname": "lxez",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.77122",
+        "display_y": "24.53065",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [679286.818447466008365, 2715542.091481625568122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486043",
+        "Name": "利民完小",
+        "pyname": "lmwx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.88153",
+        "display_y": "24.66596",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [690278.201471805456094, 2730701.977076114621013]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486047",
+        "Name": "泸西一中",
+        "pyname": "lxyz",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76295",
+        "display_y": "24.53156",
+        "side": "R",
+        "address": "环城西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678446.901634683832526, 2715631.635112105403095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486196",
+        "Name": "弥勒县木器厂小星星幼儿园",
+        "pyname": "mlxmqcxxxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44254",
+        "display_y": "24.40335",
+        "side": "L",
+        "address": "士金街57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646115.044977148761973, 2701031.113341365475208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486197",
+        "Name": "弥勒县新哨镇新发小学",
+        "pyname": "mlxxszxfxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45799",
+        "display_y": "24.2853",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647822.591990128392354, 2687968.693506257142872]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486367",
+        "Name": "小河边小学",
+        "pyname": "xhbxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.13846",
+        "display_y": "23.89492",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [615744.861942326999269, 2644401.740878764539957]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486519",
+        "Name": "太平小学",
+        "pyname": "tpxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74467",
+        "display_y": "24.58236",
+        "side": "L",
+        "address": "S204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676522.917323797359131, 2721237.081605975050479]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486520",
+        "Name": "江边中学",
+        "pyname": "jbzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.60565",
+        "display_y": "24.02099",
+        "side": "R",
+        "address": "江边乡江边村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [663180.742943875258788, 2658872.565861235838383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486562",
+        "Name": "弥勒县竹园镇中心学校",
+        "pyname": "mlxzyzzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.42088",
+        "display_y": "24.11222",
+        "side": "R",
+        "address": "竹园镇竹园村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644245.246343566686846, 2668741.489923014771193]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486566",
+        "Name": "华宁县宁州镇普茶寨小学",
+        "pyname": "hnxnzzpczxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.99662",
+        "display_y": "24.1422",
+        "side": "L",
+        "address": "宁州镇普茶寨"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [601133.77384049736429, 2671714.995747738517821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486673",
+        "Name": "愍生敬慈小学",
+        "pyname": "msjcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.85086",
+        "display_y": "24.47902",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [687447.782513185753487, 2709940.035043156240135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486692",
+        "Name": "金马中学",
+        "pyname": "jmzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74693",
+        "display_y": "24.62308",
+        "side": "R",
+        "address": "豆泸线"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676694.505922748357989, 2725752.065071895252913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486693",
+        "Name": "旧城中学",
+        "pyname": "jczx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.66998",
+        "display_y": "24.62945",
+        "side": "L",
+        "address": "旧城镇旧城村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [668905.002833084086888, 2726372.356599429156631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486716",
+        "Name": "麒麟幼儿园",
+        "pyname": "qlyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43277",
+        "display_y": "24.40496",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645120.90749728679657, 2701197.65618769498542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486756",
+        "Name": "弥勒县老干部党校",
+        "pyname": "mlxlgbdx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43302",
+        "display_y": "24.41034",
+        "side": "L",
+        "address": "桃园路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645140.152915177866817, 2701794.194416531361639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486803",
+        "Name": "下村小学",
+        "pyname": "xcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74089",
+        "display_y": "24.53929",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676200.766662758775055, 2716460.029784521553665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486804",
+        "Name": "泸西桃笑园爱幼儿园",
+        "pyname": "lxtxyayey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74559",
+        "display_y": "24.53519",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676682.266313815372996, 2716011.194430814124644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486818",
+        "Name": "五山乡中心幼儿园",
+        "pyname": "wsxzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.21083",
+        "display_y": "24.17067",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [622860.536807323573157, 2675035.80404139123857]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486895",
+        "Name": "泸西县机关幼儿园",
+        "pyname": "lxxjgyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76096",
+        "display_y": "24.52766",
+        "side": "L",
+        "address": "环城南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678250.773486887570471, 2715196.874338780529797]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486907",
+        "Name": "路口小学",
+        "pyname": "lkxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.54553",
+        "display_y": "24.47047",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [656505.728185899788514, 2708611.872116211801767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486908",
+        "Name": "大瑞小学",
+        "pyname": "drxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.53407",
+        "display_y": "24.46781",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [655344.275434324285015, 2708301.072238571941853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.486992",
+        "Name": "巡检司镇拉里黑小学",
+        "pyname": "xjszllhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.13922",
+        "display_y": "24.01335",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [615716.260430436348543, 2657526.825972525402904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487002",
+        "Name": "盘江中心小学",
+        "pyname": "pjzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.13434",
+        "display_y": "24.01361",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [615219.026018560281955, 2657550.868747957982123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487154",
+        "Name": "弥勒县第二中学北校区",
+        "pyname": "mlxdezxbxq",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41992",
+        "display_y": "24.11027",
+        "side": "R",
+        "address": "竹园镇竹园村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644149.823426275746897, 2668524.339055835735053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487201",
+        "Name": "明德小学",
+        "pyname": "mdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.35499",
+        "display_y": "24.30937",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [637341.168985712574795, 2690528.872835205867887]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487202",
+        "Name": "古城小学",
+        "pyname": "gcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41928",
+        "display_y": "24.41354",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [643741.97980992263183, 2702133.031520697753876]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487400",
+        "Name": "弥勒县朋普镇朋普小学",
+        "pyname": "mlxppzppxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.35543",
+        "display_y": "23.96325",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [637757.494437758927234, 2652170.231196147855371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487401",
+        "Name": "朋普镇中心幼儿园",
+        "pyname": "ppzzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.35359",
+        "display_y": "23.96392",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [637569.915459146606736, 2652243.045144983567297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487441",
+        "Name": "泸西县老年大学",
+        "pyname": "lxxlndx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.7603",
+        "display_y": "24.52964",
+        "side": "L",
+        "address": "西正街164"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678181.036165822530165, 2715415.395796681754291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487442",
+        "Name": "东风第一小学",
+        "pyname": "dfdyxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40139",
+        "display_y": "24.30716",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [642046.867705343291163, 2690325.534931554459035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487587",
+        "Name": "泸西县职业高级中学",
+        "pyname": "lxxzygjzx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76979",
+        "display_y": "24.51721",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [679161.054979473701678, 2714050.877140704542398]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487588",
+        "Name": "玄天文武学校",
+        "pyname": "xtwwxx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76776",
+        "display_y": "24.52177",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678948.569599088747054, 2714553.294172988273203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487634",
+        "Name": "公所成人文化技术学校",
+        "pyname": "gscrwhjsxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.84429",
+        "display_y": "24.67383",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [686491.112562336260453, 2731517.461179147940129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487635",
+        "Name": "永宁乡初级中学",
+        "pyname": "ynxcjzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.68838",
+        "display_y": "24.37255",
+        "side": "L",
+        "address": "永宁乡永宁村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [671112.910861269570887, 2697923.332135233096778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487660",
+        "Name": "弥勒县老年大学",
+        "pyname": "mlxlndx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43302",
+        "display_y": "24.41034",
+        "side": "L",
+        "address": "桃园路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645140.152915177866817, 2701794.194416531361639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487708",
+        "Name": "公交希望小学",
+        "pyname": "gjxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.53057",
+        "display_y": "23.78546",
+        "side": "R",
+        "address": "G323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [655815.732766291126609, 2632673.526296074967831]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487709",
+        "Name": "大平寨小学",
+        "pyname": "dpzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.57406",
+        "display_y": "23.8136",
+        "side": "R",
+        "address": "G323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [660222.35762291168794, 2635850.051698691211641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487710",
+        "Name": "云窝寺小学校",
+        "pyname": "ywsxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.61572",
+        "display_y": "23.78299",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [664506.826415436691605, 2632506.647479084320366]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487720",
+        "Name": "林益小学",
+        "pyname": "lyxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.67612",
+        "display_y": "24.42005",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [669807.714492317987606, 2703174.792421155143529]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.487721",
+        "Name": "笼册小学",
+        "pyname": "lcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.6703",
+        "display_y": "24.40856",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [669234.088849367108196, 2701895.571933978237212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488164",
+        "Name": "弥阳二小",
+        "pyname": "myex",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44027",
+        "display_y": "24.40487",
+        "side": "L",
+        "address": "环城西路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645882.7535933656618, 2701196.798453172203153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488180",
+        "Name": "建水县新华小学",
+        "pyname": "jsxxhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.02613",
+        "display_y": "24.03196",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [604211.252379187499173, 2659510.088423219043761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488237",
+        "Name": "康艺幼儿园",
+        "pyname": "kyyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.74595",
+        "display_y": "24.53474",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676719.402797835646197, 2715961.800457831472158]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488238",
+        "Name": "泸西县行政学校",
+        "pyname": "lxxxzxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75944",
+        "display_y": "24.53346",
+        "side": "R",
+        "address": "青年路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678088.415090501541272, 2715837.547272439580411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488239",
+        "Name": "泸西县教师进修学校",
+        "pyname": "lxxjsjxxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75944",
+        "display_y": "24.53346",
+        "side": "R",
+        "address": "青年路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678088.415090501541272, 2715837.547272439580411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488240",
+        "Name": "龙甸小学",
+        "pyname": "ldxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.78222",
+        "display_y": "24.50241",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [680442.949141713557765, 2712427.945852426812053]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488247",
+        "Name": "西龙中心完小",
+        "pyname": "xlzxwx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.18113",
+        "display_y": "24.42188",
+        "side": "R",
+        "address": "西二镇西龙村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [619602.019725838210434, 2702842.276562494691461]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488256",
+        "Name": "小苗苗幼儿园",
+        "pyname": "xmmyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44184",
+        "display_y": "24.40533",
+        "side": "L",
+        "address": "民主街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646041.676417232491076, 2701249.683915521483868]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488345",
+        "Name": "弥勒县社会主义学校",
+        "pyname": "mlxshzyxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43458",
+        "display_y": "24.40086",
+        "side": "L",
+        "address": "吉山南路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645309.377871660050005, 2700745.426758104469627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488491",
+        "Name": "大麦地村委会大麦地小学",
+        "pyname": "dmdcwhdmdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.38629",
+        "display_y": "24.58385",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [640207.543020667275414, 2720970.259774500504136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488556",
+        "Name": "弥勒县民族职业高级中学",
+        "pyname": "mlxmzzygjzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.4345",
+        "display_y": "24.41668",
+        "side": "L",
+        "address": "吉山北路236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645283.169699358521029, 2702498.542108174879104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488570",
+        "Name": "泸西县农业机械化技校",
+        "pyname": "lxxnyjxhjx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75511",
+        "display_y": "24.54245",
+        "side": "R",
+        "address": "阿庐大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [677636.93977277376689, 2716828.2184251928702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488571",
+        "Name": "泸西县驾校",
+        "pyname": "lxxjx",
+        "kind": "A706",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75511",
+        "display_y": "24.54245",
+        "side": "R",
+        "address": "阿庐大街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [677636.93977277376689, 2716828.2184251928702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488599",
+        "Name": "中枢小学",
+        "pyname": "zsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76555",
+        "display_y": "24.528",
+        "side": "R",
+        "address": "少年路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678715.48701338050887, 2715240.55739231640473]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488663",
+        "Name": "童欣幼儿园",
+        "pyname": "txyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43401",
+        "display_y": "24.41876",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645230.995816031238064, 2702728.413995295297354]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488664",
+        "Name": "白水镇中心小学",
+        "pyname": "bszzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.86078",
+        "display_y": "24.63822",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [688216.907438935013488, 2727597.219995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488665",
+        "Name": "大衣小学",
+        "pyname": "dyxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.85368",
+        "display_y": "24.64782",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [687482.400314692175016, 2728649.994271541014314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488768",
+        "Name": "弥勒县五山乡中心学校",
+        "pyname": "mlxwsxzxxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.20934",
+        "display_y": "24.16894",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [622710.669093063799664, 2674842.573854538612068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488779",
+        "Name": "红万小学",
+        "pyname": "hwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.26955",
+        "display_y": "24.38948",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [628605.511086433776654, 2699339.276721467729658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488780",
+        "Name": "庆来学校",
+        "pyname": "qlxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.41076",
+        "display_y": "24.42154",
+        "side": "N",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [642869.105909289210103, 2703010.686645043082535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488816",
+        "Name": "丘北县舍得中学校",
+        "pyname": "qbxsdzxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.86606",
+        "display_y": "24.23626",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [689353.733404231490567, 2683057.66851863078773]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488818",
+        "Name": "玉溪市柑桔科学研究所",
+        "pyname": "yxsgjkxyjs",
+        "kind": "A880",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.12085",
+        "display_y": "24.2072",
+        "side": "L",
+        "address": "S304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [613673.937086126185022, 2678992.086565467063338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488860",
+        "Name": "华宁县青龙镇中心幼儿园",
+        "pyname": "hnxqlzzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.98364",
+        "display_y": "24.43666",
+        "side": "R",
+        "address": "中街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [599588.392398532712832, 2704338.925659512169659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488943",
+        "Name": "泸西县三塘幼儿园",
+        "pyname": "lxxstyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.84197",
+        "display_y": "24.4186",
+        "side": "L",
+        "address": "三塘公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [686634.215392720419914, 2703230.302671669982374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488944",
+        "Name": "泸西县三塘乡中心小学",
+        "pyname": "lxxstxzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.84294",
+        "display_y": "24.41708",
+        "side": "L",
+        "address": "三塘公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [686735.026698897592723, 2703063.331437023356557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488945",
+        "Name": "三塘中学",
+        "pyname": "stzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.84387",
+        "display_y": "24.41711",
+        "side": "R",
+        "address": "三塘公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [686829.483907795045525, 2703068.097806383855641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488948",
+        "Name": "盘溪镇第一小学",
+        "pyname": "pxzdyxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10138",
+        "display_y": "24.22232",
+        "side": "R",
+        "address": "盘溪镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611682.912858012248762, 2680650.867493527475744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488949",
+        "Name": "乐士堂小学",
+        "pyname": "lstxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10164",
+        "display_y": "24.21058",
+        "side": "R",
+        "address": "乐士堂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611719.762491801637225, 2679350.223743528593332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.488950",
+        "Name": "龙潭营小学",
+        "pyname": "ltyxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.07442",
+        "display_y": "24.14373",
+        "side": "R",
+        "address": "龙潭营"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [609014.77161660452839, 2671922.121512082405388]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489023",
+        "Name": "弥勒市特殊教育学校",
+        "pyname": "mlstsjyxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45226",
+        "display_y": "24.40626",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647099.29134170548059, 2701365.872731632553041]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489114",
+        "Name": "红烟幼儿园",
+        "pyname": "hyyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43132",
+        "display_y": "24.41444",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644962.82020151312463, 2702246.504928868729621]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489130",
+        "Name": "旧城镇中心小学",
+        "pyname": "jczzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.6699",
+        "display_y": "24.6252",
+        "side": "R",
+        "address": "旧城镇旧城村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [668902.641771203605458, 2725901.378144157584757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489131",
+        "Name": "泸西驾校",
+        "pyname": "lxjx",
+        "kind": "A706",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76421",
+        "display_y": "24.56888",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678521.958142560324632, 2719769.160939447581768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489137",
+        "Name": "白石头小学",
+        "pyname": "bstxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75757",
+        "display_y": "24.63883",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [677749.81857815280091, 2727511.200976668857038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489237",
+        "Name": "泸西县华夏文武职业学校",
+        "pyname": "lxxhxwwzyxx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.78931",
+        "display_y": "24.49623",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [681171.536138990428299, 2711753.440299514681101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489300",
+        "Name": "弥勒县第三中学",
+        "pyname": "mlxdszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.31881",
+        "display_y": "24.14507",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [633849.76808807963971, 2672292.929337212815881]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489364",
+        "Name": "华宁县第七中学",
+        "pyname": "hnxdqzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.9871",
+        "display_y": "24.45375",
+        "side": "R",
+        "address": "澄华路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [599924.416708673350513, 2706233.856755119282752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489365",
+        "Name": "华宁县第六中学",
+        "pyname": "hnxdlzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.98046",
+        "display_y": "24.42072",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [599279.700179480714723, 2702571.543889959342778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489438",
+        "Name": "兴农驾驶培训基地",
+        "pyname": "xnjspxjd",
+        "kind": "A706",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44753",
+        "display_y": "24.38117",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646647.99939383356832, 2698579.778825124260038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489439",
+        "Name": "弥勒县弥东中学",
+        "pyname": "mlxmdzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44727",
+        "display_y": "24.38116",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646621.601034528459422, 2698578.351531528867781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489580",
+        "Name": "泸西泸源艺术幼儿园",
+        "pyname": "lxlyysyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75783",
+        "display_y": "24.55731",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [677891.687087037833408, 2718478.521256891079247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489591",
+        "Name": "石林县长湖镇豆黑小学",
+        "pyname": "slxchzdhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.36961",
+        "display_y": "24.68327",
+        "side": "L",
+        "address": "豆黑村85"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [638410.570486286887899, 2731970.185348762199283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489700",
+        "Name": "大可乡中心学校",
+        "pyname": "dkxzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23954",
+        "display_y": "24.60618",
+        "side": "R",
+        "address": "鹿平公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [625346.774960122886114, 2723321.947650100104511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489768",
+        "Name": "泸西县建设小学",
+        "pyname": "lxxjsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76286",
+        "display_y": "24.52881",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678441.687452980317175, 2715326.783172231633216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489769",
+        "Name": "泸西县少年警校",
+        "pyname": "lxxsnjx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.76286",
+        "display_y": "24.52881",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678441.687452980317175, 2715326.783172231633216]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489843",
+        "Name": "丘北县新店乡中心学校",
+        "pyname": "qbxxdxzxxx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.73231",
+        "display_y": "24.02727",
+        "side": "L",
+        "address": "S305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [676038.857898888760246, 2659701.929902368225157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489870",
+        "Name": "弥勒县朋普镇同车小学",
+        "pyname": "mlxppztcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.37071",
+        "display_y": "23.96171",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [639311.314999843831174, 2652012.03968250984326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489871",
+        "Name": "朋普中学",
+        "pyname": "ppzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.37201",
+        "display_y": "23.96144",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [639443.667988478206098, 2651983.192149759270251]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489918",
+        "Name": "金太阳双语幼儿园",
+        "pyname": "jtysyyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": "0873-6892296",
+        "display_x": "103.44282",
+        "display_y": "24.39811",
+        "side": "L",
+        "address": "环南巷"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646149.583710670936853, 2700450.831980699673295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.489953",
+        "Name": "鸿雁幼儿园",
+        "pyname": "hyyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.44158",
+        "display_y": "24.39961",
+        "side": "L",
+        "address": "建设街"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [646021.87134568428155, 2700615.498280753847212]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490026",
+        "Name": "弥勒县新哨中学",
+        "pyname": "mlxxszx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.45115",
+        "display_y": "24.24556",
+        "side": "R",
+        "address": "S305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [647172.730569778126664, 2683555.612276928499341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490052",
+        "Name": "代代红幼儿园",
+        "pyname": "ddhyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": "0873-6921488",
+        "display_x": "103.8634",
+        "display_y": "24.63782",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [688483.074914889642969, 2727556.767458817455918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490487",
+        "Name": "矣马伴村小天使幼儿园",
+        "pyname": "ymbcxtsyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23576",
+        "display_y": "24.65573",
+        "side": "R",
+        "address": "小矣公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [624915.09353374724742, 2728808.369774917140603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490488",
+        "Name": "板桥镇爱福希望小学",
+        "pyname": "bqzafxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.23586",
+        "display_y": "24.65582",
+        "side": "R",
+        "address": "小矣公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [624925.136232242453843, 2728818.436996582429856]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490489",
+        "Name": "习克丈村小",
+        "pyname": "xkzcx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.20936",
+        "display_y": "24.63146",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [622264.769269917276688, 2726092.729764570016414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490490",
+        "Name": "岩子脚小学",
+        "pyname": "yzjxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.20563",
+        "display_y": "24.60626",
+        "side": "R",
+        "address": "XA31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [621911.222700179321691, 2723297.054956620559096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490594",
+        "Name": "宜良县第十一中学",
+        "pyname": "ylxdsyzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.11873",
+        "display_y": "24.57681",
+        "side": "R",
+        "address": "XA32"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [613127.34892646339722, 2719944.746370806824416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.490666",
+        "Name": "徐泸湾半孔希望小学",
+        "pyname": "xlwbkxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.83726",
+        "display_y": "24.46066",
+        "side": "L",
+        "address": "三塘公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [686093.500804371316917, 2707884.285071471706033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491128",
+        "Name": "泸西县委员会党校",
+        "pyname": "lxxwyhdx",
+        "kind": "A700",
+        "zipcode": null,
+        "telephone": "0873-6621633",
+        "display_x": "103.75948",
+        "display_y": "24.53355",
+        "side": "R",
+        "address": "青年路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678092.338199019897729, 2715847.575347829610109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491519",
+        "Name": "昆明蓝精灵双语幼儿园竹山第五分园",
+        "pyname": "kmljlsyyeyzsdwfy",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": "15559628181",
+        "display_x": "103.11688",
+        "display_y": "24.57211",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612944.131693765055388, 2719422.322592219803482]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491569",
+        "Name": "大可乡南小村幼儿园",
+        "pyname": "dkxnxcyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.22762",
+        "display_y": "24.53291",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [624212.438084506778978, 2715193.06862724898383]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491617",
+        "Name": "中枢镇幼儿园",
+        "pyname": "zszyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": "0873-6621300",
+        "display_x": "103.76235",
+        "display_y": "24.53094",
+        "side": "R",
+        "address": "肖公庙街32号"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678386.95133932470344, 2715562.131392311304808]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491665",
+        "Name": "徐泸督捕抚希望小学",
+        "pyname": "xldbfxwxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.65456",
+        "display_y": "24.61813",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [667361.969775417470373, 2725102.38185347057879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491666",
+        "Name": "木龙完小",
+        "pyname": "mlwx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.70645",
+        "display_y": "24.6934",
+        "side": "R",
+        "address": "三午公路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [672502.310291558038443, 2733496.015331434085965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491717",
+        "Name": "大村小学",
+        "pyname": "dcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "102.98475",
+        "display_y": "24.49372",
+        "side": "L",
+        "address": "大村村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [599655.41160773136653, 2710661.390333695337176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.491971",
+        "Name": "石林彝族自治县长湖镇中心学校",
+        "pyname": "slyzzzxchzzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.40528",
+        "display_y": "24.71019",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [641986.019035260076635, 2734986.211277227383107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492466",
+        "Name": "长湖镇宜政小学",
+        "pyname": "chzyzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.431",
+        "display_y": "24.66759",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [644638.864063237328082, 2730295.478629678022116]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492467",
+        "Name": "蝴蝶幼儿园",
+        "pyname": "hdyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.60148",
+        "display_y": "24.68708",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [661904.404470467707142, 2732684.548992170020938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492468",
+        "Name": "圭山镇蝴蝶小学",
+        "pyname": "gszhdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.60035",
+        "display_y": "24.69174",
+        "side": "L",
+        "address": "亩竹箐村2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [661783.940609395387582, 2733199.414621669333428]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492479",
+        "Name": "华溪镇中心幼儿园",
+        "pyname": "hxzzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.0188",
+        "display_y": "24.05842",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [603447.05163980065845, 2662439.396779447793961]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492840",
+        "Name": "小哨生憨（弟子规）幼儿园",
+        "pyname": "xssh(dzg)yey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": "13888765268",
+        "display_x": "103.17501",
+        "display_y": "24.70885",
+        "side": "L",
+        "address": "Y035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [618708.702329880790785, 2734629.498978576157242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492849",
+        "Name": "圭山镇糯黑小学",
+        "pyname": "gsznhxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.52124",
+        "display_y": "24.67165",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [653790.141001956071705, 2730868.480963405221701]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492884",
+        "Name": "华宁县第九中学",
+        "pyname": "hnxdjzx",
+        "kind": "A703",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.07152",
+        "display_y": "24.33405",
+        "side": "R",
+        "address": "通红甸乡通红甸村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [608558.218850679812022, 2693010.5527324215509]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.492990",
+        "Name": "竹山中心小学",
+        "pyname": "zszxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.12454",
+        "display_y": "24.56923",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [613722.894924742169678, 2719110.220932502765208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.493255",
+        "Name": "竹山镇禄丰村幼儿园",
+        "pyname": "zszlfcyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.11403",
+        "display_y": "24.57091",
+        "side": "L",
+        "address": "竹山镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612656.46880828239955, 2719286.836119143757969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.493365",
+        "Name": "小红帽幼儿园",
+        "pyname": "xhmyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10084",
+        "display_y": "24.22243",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611627.996838403167203, 2680662.61340529890731]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.493532",
+        "Name": "圭山镇中心小学",
+        "pyname": "gszzxxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.55552",
+        "display_y": "24.64507",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [657301.837004585657269, 2727971.848923171404749]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.493533",
+        "Name": "圭山镇中心幼儿园",
+        "pyname": "gszzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.55492",
+        "display_y": "24.64467",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [657241.480197097873315, 2727926.717666903976351]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.493602",
+        "Name": "师宗县彩云明德小学",
+        "pyname": "szxcymdxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.91766",
+        "display_y": "24.70339",
+        "side": "L",
+        "address": "XD62"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [693878.737982501508668, 2734900.940380772110075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.493752",
+        "Name": "宜良县竹林小学",
+        "pyname": "ylxzlxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.10347",
+        "display_y": "24.68069",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611490.066934906528331, 2731440.628101189620793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.494038",
+        "Name": "亚太商务管理学校弥勒职业分校",
+        "pyname": "ytswglxxmlzyfx",
+        "kind": "A708",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.43922",
+        "display_y": "24.40697",
+        "side": "R",
+        "address": "冉翁路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [645773.698447697795928, 2701428.252665746025741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.494770",
+        "Name": "开远市中和营中心校中寨小学",
+        "pyname": "kyszhyzxxzzxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.64938",
+        "display_y": "23.87417",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [667815.012630093609914, 2642646.408234042581171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.494944",
+        "Name": "宜良县小哨小学",
+        "pyname": "ylxxsxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.17534",
+        "display_y": "24.70895",
+        "side": "R",
+        "address": "Y035"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [618742.05092071951367, 2734640.926859631203115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.496072",
+        "Name": "五山乡中心完全小学",
+        "pyname": "wsxzxwqxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.20598",
+        "display_y": "24.16767",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [622370.141015415312722, 2674698.41416276153177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.496183",
+        "Name": "干冲小学",
+        "pyname": "gcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.46908",
+        "display_y": "24.38112",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [648839.062931000371464, 2698602.665247372817248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.496184",
+        "Name": "卫泸小学",
+        "pyname": "wlxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.55047",
+        "display_y": "24.38201",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [657117.418545151595026, 2698815.768595926463604]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.496243",
+        "Name": "泸西县社会主义学校",
+        "pyname": "lxxshzyxx",
+        "kind": "A709",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.75944",
+        "display_y": "24.53346",
+        "side": "R",
+        "address": "青年路"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [678088.415090501541272, 2715837.547272439580411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.496544",
+        "Name": "盘溪镇下街开心学前班",
+        "pyname": "pxzxjkxxqb",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.09873",
+        "display_y": "24.22309",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [611413.243307118187658, 2680734.092813797295094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.496766",
+        "Name": "华溪镇独家村小学",
+        "pyname": "hxzdjcxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.05236",
+        "display_y": "24.09269",
+        "side": "R",
+        "address": "华溪镇独家村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [606820.401245900196955, 2666252.897442888002843]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.497003",
+        "Name": "小龙潭办事处职业技术培训中心",
+        "pyname": "xltbsczyjspxzx",
+        "kind": "7480",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.15955",
+        "display_y": "23.78122",
+        "side": "L",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [617998.392366068204865, 2631823.949943733401597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.497063",
+        "Name": "小龙潭中心幼儿园",
+        "pyname": "xltzxyey",
+        "kind": "A701",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.16874",
+        "display_y": "23.7817",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [618935.890055463067256, 2631886.615380577277392]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.497096",
+        "Name": "宜良县竹山镇禄丰小学",
+        "pyname": "ylxzszlfxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.11403",
+        "display_y": "24.57091",
+        "side": "L",
+        "address": "竹山镇"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [612656.46880828239955, 2719286.836119143757969]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.497204",
+        "Name": "各纳甸小学",
+        "pyname": "gndxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.09422",
+        "display_y": "24.18667",
+        "side": "R",
+        "address": "各纳甸村"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [610987.312425466021523, 2676694.743038931395859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "gml_id": "layer_scientific_pt.497224",
+        "Name": "逸圃镇固白小学",
+        "pyname": "ypzgbxx",
+        "kind": "A702",
+        "zipcode": null,
+        "telephone": null,
+        "display_x": "103.72313",
+        "display_y": "24.47454",
+        "side": "R",
+        "address": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [674492.04938632179983, 2709263.46713755140081]
+      }
+    }
+  ]
+}

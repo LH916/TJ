@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <title>demo</title>
+    <style>
+      html,
+      body {
+        height: 100%;
+        width: 100%;
+        -webkit-text-size-adjust: 100%;
+      }
+      @font-face {
+        font-family: Ding;
+        src: url("./DS-DIGI.TTF");
+      }
+      body {
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        font: 14px/1.5 system-ui, -apple-system, BlinkMacSystemFont, Segoe UI,
+          Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji,
+          Segoe UI Symbol;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        text-rendering: optimizeLegibility;
+      }
+
+      .modal-video_dialog {
+        position: relative;
+        width: 100%;
+
+        height: 100%;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .modal-video_dialog h1 {
+        margin: 0;
+        height: 100%;
+        padding: 0 10px;
+        width: 100%;
+        font-weight: normal;
+        font-size: 18px;
+        box-sizing: border-box;
+        background: #bb741769;
+        color: #fff;
+        text-align: center;
+      }
+
+      #main {
+        position: relative;
+        width: 95%;
+        height: 40px;
+        padding-top: 10px;
+        padding-left: 40px;
+        border-radius: 6px;
+        /* border: 1px solid rgba(50, 149, 206, 0.815); */
+        display: flex;
+        align-items: center;
+        /* background: url("../company/小标.png") no-repeat center/cover; */
+        background: rgba(0, 0, 0, 0.432);
+        background-size: 100%;
+      }
+      .num {
+        width: 100px;
+        height: 50px;
+        margin-right: 10px;
+        border-radius: 8px;
+        overflow: hidden;
+        /* background: url("./images/中通快递.png") no-repeat center/cover; */
+        color: #69edf7;
+        font-family: Ding;
+        font-size: 32px;
+      }
+    </style>
+
+    <script src="../js//echarts.min.js"></script>
+  </head>
+
+  <body>
+    <div class="modal-video_dialog">
+      <div
+        id="main"
+        style="
+          -webkit-tap-highlight-color: transparent;
+          user-select: none;
+          position: relative;
+        "
+        _echarts_instance_="ec_1591355150854"
+      ></div>
+      <div class="num">10%</div>
+    </div>
+
+    <script>
+      var myChart = echarts.init(document.getElementById("main"));
+      let name = "当前电量",
+        max = 100,
+        value = 10;
+
+      option = {
+        xAxis: {
+          type: "value",
+          max: max,
+          splitLine: {
+            show: false,
+          },
+          axisLine: {
+            show: false,
+          },
+          axisLabel: {
+            show: false,
+          },
+          axisTick: {
+            show: false,
+          },
+        },
+        yAxis: [
+          {
+            type: "category",
+            inverse: false,
+            data: [name],
+            axisLine: {
+              show: false,
+            },
+            axisTick: {
+              show: false,
+            },
+            axisLabel: {
+              show: true,
+              margin: 0,
+              textStyle: {
+                color: "#6ef3fc",
+                fontSize: 16.25,
+              },
+            },
+          },
+        ],
+        series: [
+          {
+            //分隔
+            type: "pictorialBar",
+            label: {
+              show: false,
+              position: "insideRight",
+              color: "#ddc95a",
+              formatter: "{c}%",
+              fontSize: 24,
+            },
+            itemStyle: {
+              color: "#6ef3fc",
+            },
+            symbolRepeat: "fixed",
+            symbolMargin: "2",
+            symbol: "rect",
+            symbolClip: true,
+            symbolSize: [15, 20],
+            symbolPosition: "start",
+            symbolOffset: [10, 0],
+            symbolBoundingData: max,
+            data: [value],
+          },
+        ],
+      };
+
+      function GetQueryString(variable) {
+        var query = window.location.search.substring(1);
+        var vars = query.split("&");
+        for (var i = 0; i < vars.length; i++) {
+          var pair = vars[i].split("=");
+          if (pair[0] == variable) {
+            return decodeURI(pair[1]);
+          }
+        }
+        return null;
+      }
+
+      window.onload = function () {
+        let img = GetQueryString("img");
+        // let num = GetQueryString("num");
+        // document.querySelector(".bottom").innerText = name;
+        // option.series[0].data = [num];
+        // document.querySelector(
+        //   ".img"
+        // ).style.background = `url("./images/${img}") no-repeat center/cover`;
+        myChart.setOption(option);
+
+        let i = 10;
+        document.querySelector(".num").innerText = i;
+        let timer = setInterval(() => {
+          if (i >= 100) {
+            clearInterval(timer);
+          }
+          option.series[0].data = [i];
+
+          myChart.setOption(option);
+          document.querySelector(".num").innerText = i + "%";
+
+          i++;
+        }, 500);
+      };
+    </script>
+  </body>
+</html>

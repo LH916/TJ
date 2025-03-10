@@ -1,0 +1,54 @@
+{
+    "marker3d": [
+        {
+            "name": "Point_R_5"
+        },
+        {
+            "name": "Point_R_4"
+        },
+        {
+            "name": "Point_B_4"
+        },
+        {
+            "name": "Point_Y_4"
+        },
+        {
+            "name": "Point_B_1"
+        }
+    ],
+    "other": [
+        {
+            "path": "/JC_CustomAssets/Material/M_material"
+        },
+        {
+            "path": "/JC_CustomAssets/ObjectLibrary/Exhibition/交通工具/其他/无人机_1"
+        },
+        {
+            "path": "/JC_CustomAssets/EffectLibrary/Exhibition/Point/Point_B_4"
+        },
+        {
+            "path": "/JC_CustomAssets/ObjectLibrary/Exhibition/交通工具/车辆/轿车_1"
+        },
+        {
+            "path": "/JC_CustomAssets/ObjectLibrary/Exhibition/交通工具/车辆/SUV_1"
+        },
+        {
+            "path": "/Game/Developers/ZYC/WRJ/bp_wrj01"
+        },
+        {
+            "path": "/Game/Common/Asset_Bank/Mesh/Car/BP_Car_JiuHuChe"
+        },
+        {
+            "path": "/Game/INY/truck/BP_Truck"
+        },
+        {
+            "path": "/Game/Developers/ZYC/SQ_TeXiao/bp_AFicon"
+        },
+        {
+            "path": "/Game/Developers/ZYC/car/Kcar"
+        },
+        {
+            "path": "/Game/Developers/ZYC/car/jiaoche"
+        }
+    ]
+}

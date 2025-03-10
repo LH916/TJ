@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        * {
+            margin: 0;
+            border: 0;
+            box-sizing: border-box;
+        }
+
+        .wrap {
+            width: 320px;
+            height: 230px;
+            /* background-color: rgba(36, 28, 28, 0.582); */
+            background: url("images/弹框@2x.png") no-repeat;
+            background-size: 100% 100%;
+            /* border: 1px #ccc solid; */
+            padding: 10px;
+        }
+
+        .title {
+            font-size: 14px;
+            line-height: 40px;
+            color: #fff;
+            /* border-bottom: 1px #ccc solid; */
+        }
+
+        video {
+            width: 100%;
+
+        }
+
+        p {
+            height: 35px;
+            line-height: 35px;
+            padding-left: 30px;
+            color: #fff;
+            font-size: 16px;
+        }
+
+
+        p b {
+            font-size: 18px;
+            color: #ffc662;
+            display: inline-block;
+            margin: 0 2px 0 30px;
+            font-size: 16px;
+            font-weight: 500;
+        }
+        p span {
+            font-size: 16px;
+            color: #ffc662;
+            display: inline-block;
+            margin: 0 2px 0 30px;
+            font-size: 16px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="wrap">
+        <div class="title"></div>
+        <!-- <video src="" autoplay loop controls></video> -->
+    </div>
+    <script>
+
+        var query = window.location.search.substring(1);
+        var vars = query.split("&");
+        let obj = {}
+        vars.forEach(item => {
+            let cur = item.split("=")
+            console.log(cur);
+            obj[cur[0]] = cur[1]
+        })
+        let { title } = obj
+        document.querySelector(".title").innerText = decodeURI(title);
+        if (obj.videoSrc) {
+            // 如果弹窗里是视频
+            let videoEle = document.createElement('video');
+            videoEle.src = obj.videoSrc;
+            videoEle.autoplay = true;
+            videoEle.loop = true;
+            videoEle.controls = true;
+            document.querySelector(".wrap").appendChild(videoEle);
+        } else if (obj.biref) {
+            document.querySelector(".title").style.fontSize = '18px';
+
+            // 如果弹窗里是属性
+            let vars = obj.biref.split(";");
+            let result = vars.map(item => {
+                let key = decodeURI(item.split("-")[0]);
+                let value = decodeURI(item.split("-")[1]);
+                let dw = decodeURI(item.split("-")[2]);
+                return {
+                    key,
+                    value,
+                    dw,
+
+                }
+            })
+            result.forEach(item => {
+                let pEle = document.createElement('p');
+                let { key, value, dw } = item;
+                pEle.innerHTML = `
+                    ${key}:<b>${value}</b> <span>${dw}</span>
+               `
+                document.querySelector(".wrap").appendChild(pEle)
+            })
+            console.log(result);
+        }
+
+
+
+    </script>
+</body>
+
+</html>
